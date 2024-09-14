@@ -1,0 +1,1487 @@
+Modelo;Combinación de Características;Puntaje R^2
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, residual sugar, total sulfur dioxide, pH, sulphates, alcohol;0,494507268
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, residual sugar, free sulfur dioxide, total sulfur dioxide, pH, sulphates, alcohol;0,493542854
+RandomForestRegressor;fixed acidity, volatile acidity, residual sugar, free sulfur dioxide, total sulfur dioxide, pH, sulphates, alcohol;0,492325332
+RandomForestRegressor;fixed acidity, volatile acidity, chlorides, free sulfur dioxide, total sulfur dioxide, pH, sulphates, alcohol;0,487211055
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, chlorides, free sulfur dioxide, total sulfur dioxide, density, pH, sulphates, alcohol;0,486527185
+RandomForestRegressor;fixed acidity, volatile acidity, residual sugar, chlorides, free sulfur dioxide, total sulfur dioxide, pH, sulphates, alcohol;0,486252128
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, residual sugar, chlorides, free sulfur dioxide, total sulfur dioxide, pH, sulphates, alcohol;0,483410672
+RandomForestRegressor;volatile acidity, free sulfur dioxide, total sulfur dioxide, pH, sulphates, alcohol;0,481961307
+RandomForestRegressor;volatile acidity, citric acid, residual sugar, free sulfur dioxide, total sulfur dioxide, pH, sulphates, alcohol;0,481077489
+RandomForestRegressor;volatile acidity, citric acid, residual sugar, chlorides, free sulfur dioxide, total sulfur dioxide, pH, sulphates, alcohol;0,480441291
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, residual sugar, free sulfur dioxide, total sulfur dioxide, density, pH, sulphates, alcohol;0,480220765
+RandomForestRegressor;fixed acidity, volatile acidity, residual sugar, free sulfur dioxide, total sulfur dioxide, density, pH, sulphates, alcohol;0,480119591
+RandomForestRegressor;volatile acidity, citric acid, residual sugar, free sulfur dioxide, total sulfur dioxide, sulphates, alcohol;0,479648016
+RandomForestRegressor;volatile acidity, residual sugar, free sulfur dioxide, total sulfur dioxide, density, pH, sulphates, alcohol;0,479633611
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, residual sugar, free sulfur dioxide, pH, sulphates, alcohol;0,478672284
+RandomForestRegressor;volatile acidity, citric acid, residual sugar, chlorides, total sulfur dioxide, density, pH, sulphates, alcohol;0,47856425
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, chlorides, free sulfur dioxide, total sulfur dioxide, pH, sulphates, alcohol;0,478393797
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, free sulfur dioxide, total sulfur dioxide, pH, sulphates, alcohol;0,478240492
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, chlorides, total sulfur dioxide, pH, sulphates, alcohol;0,47786769
+RandomForestRegressor;volatile acidity, citric acid, residual sugar, chlorides, free sulfur dioxide, total sulfur dioxide, density, sulphates, alcohol;0,477818646
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, residual sugar, free sulfur dioxide, total sulfur dioxide, sulphates, alcohol;0,477359761
+RandomForestRegressor;volatile acidity, citric acid, residual sugar, chlorides, total sulfur dioxide, pH, sulphates, alcohol;0,477034974
+RandomForestRegressor;volatile acidity, citric acid, chlorides, free sulfur dioxide, total sulfur dioxide, pH, sulphates, alcohol;0,476776379
+RandomForestRegressor;volatile acidity, residual sugar, chlorides, free sulfur dioxide, total sulfur dioxide, density, sulphates, alcohol;0,476735567
+RandomForestRegressor;volatile acidity, residual sugar, chlorides, total sulfur dioxide, pH, sulphates, alcohol;0,476656685
+RandomForestRegressor;fixed acidity, volatile acidity, free sulfur dioxide, total sulfur dioxide, pH, sulphates, alcohol;0,476345274
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, residual sugar, chlorides, total sulfur dioxide, density, pH, sulphates, alcohol;0,47624993
+RandomForestRegressor;fixed acidity, volatile acidity, residual sugar, free sulfur dioxide, total sulfur dioxide, density, sulphates, alcohol;0,475902164
+RandomForestRegressor;fixed acidity, citric acid, residual sugar, total sulfur dioxide, pH, sulphates, alcohol;0,475840774
+RandomForestRegressor;volatile acidity, citric acid, residual sugar, chlorides, free sulfur dioxide, total sulfur dioxide, density, pH, sulphates, alcohol;0,475640826
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, free sulfur dioxide, total sulfur dioxide, sulphates, alcohol;0,475401094
+RandomForestRegressor;fixed acidity, citric acid, residual sugar, chlorides, free sulfur dioxide, total sulfur dioxide, pH, sulphates, alcohol;0,475276941
+RandomForestRegressor;fixed acidity, volatile acidity, residual sugar, chlorides, total sulfur dioxide, pH, sulphates, alcohol;0,475261165
+RandomForestRegressor;volatile acidity, citric acid, total sulfur dioxide, pH, sulphates, alcohol;0,475184684
+RandomForestRegressor;fixed acidity, volatile acidity, residual sugar, total sulfur dioxide, pH, sulphates, alcohol;0,47472717
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, total sulfur dioxide, density, pH, sulphates, alcohol;0,474711737
+RandomForestRegressor;fixed acidity, volatile acidity, free sulfur dioxide, total sulfur dioxide, sulphates, alcohol;0,474248736
+RandomForestRegressor;volatile acidity, citric acid, chlorides, free sulfur dioxide, total sulfur dioxide, density, pH, sulphates, alcohol;0,474187345
+RandomForestRegressor;citric acid, chlorides, free sulfur dioxide, total sulfur dioxide, pH, sulphates, alcohol;0,474106749
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, chlorides, total sulfur dioxide, density, pH, sulphates, alcohol;0,473870446
+RandomForestRegressor;volatile acidity, citric acid, free sulfur dioxide, total sulfur dioxide, pH, sulphates, alcohol;0,473780933
+RandomForestRegressor;volatile acidity, citric acid, residual sugar, free sulfur dioxide, total sulfur dioxide, density, pH, sulphates, alcohol;0,473773045
+RandomForestRegressor;fixed acidity, residual sugar, free sulfur dioxide, total sulfur dioxide, density, pH, sulphates, alcohol;0,473616653
+RandomForestRegressor;fixed acidity, volatile acidity, residual sugar, free sulfur dioxide, total sulfur dioxide, sulphates, alcohol;0,473447572
+RandomForestRegressor;volatile acidity, chlorides, free sulfur dioxide, total sulfur dioxide, sulphates, alcohol;0,472991773
+RandomForestRegressor;volatile acidity, chlorides, free sulfur dioxide, total sulfur dioxide, pH, sulphates, alcohol;0,472820977
+RandomForestRegressor;volatile acidity, citric acid, residual sugar, total sulfur dioxide, density, pH, sulphates, alcohol;0,472698882
+RandomForestRegressor;volatile acidity, citric acid, residual sugar, chlorides, total sulfur dioxide, density, sulphates, alcohol;0,472638863
+RandomForestRegressor;fixed acidity, volatile acidity, total sulfur dioxide, pH, sulphates, alcohol;0,47246498
+RandomForestRegressor;fixed acidity, volatile acidity, residual sugar, total sulfur dioxide, density, pH, sulphates, alcohol;0,47241628
+RandomForestRegressor;fixed acidity, volatile acidity, free sulfur dioxide, total sulfur dioxide, density, pH, sulphates, alcohol;0,472309275
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, residual sugar, chlorides, free sulfur dioxide, total sulfur dioxide, sulphates, alcohol;0,472303102
+RandomForestRegressor;fixed acidity, citric acid, chlorides, free sulfur dioxide, total sulfur dioxide, pH, sulphates, alcohol;0,471762248
+RandomForestRegressor;volatile acidity, citric acid, residual sugar, free sulfur dioxide, density, sulphates, alcohol;0,471515314
+RandomForestRegressor;volatile acidity, chlorides, free sulfur dioxide, total sulfur dioxide, density, sulphates, alcohol;0,471234083
+RandomForestRegressor;volatile acidity, citric acid, residual sugar, chlorides, free sulfur dioxide, total sulfur dioxide, density, sulphates;0,471162404
+RandomForestRegressor;volatile acidity, citric acid, residual sugar, chlorides, free sulfur dioxide, density, sulphates, alcohol;0,47103242
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, free sulfur dioxide, total sulfur dioxide, density, pH, sulphates, alcohol;0,470391078
+RandomForestRegressor;volatile acidity, citric acid, residual sugar, total sulfur dioxide, pH, sulphates, alcohol;0,470072465
+RandomForestRegressor;volatile acidity, citric acid, chlorides, total sulfur dioxide, density, pH, sulphates, alcohol;0,470004901
+RandomForestRegressor;volatile acidity, residual sugar, chlorides, total sulfur dioxide, density, pH, sulphates, alcohol;0,469869087
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, residual sugar, chlorides, free sulfur dioxide, total sulfur dioxide, density, pH, sulphates, alcohol;0,469864971
+RandomForestRegressor;fixed acidity, volatile acidity, residual sugar, chlorides, total sulfur dioxide, density, pH, sulphates, alcohol;0,469433866
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, chlorides, total sulfur dioxide, density, sulphates, alcohol;0,469356356
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, free sulfur dioxide, total sulfur dioxide, density, sulphates, alcohol;0,469208196
+RandomForestRegressor;fixed acidity, citric acid, residual sugar, free sulfur dioxide, total sulfur dioxide, density, pH, sulphates, alcohol;0,469110108
+RandomForestRegressor;volatile acidity, residual sugar, chlorides, total sulfur dioxide, sulphates, alcohol;0,469023681
+RandomForestRegressor;volatile acidity, residual sugar, chlorides, free sulfur dioxide, total sulfur dioxide, pH, sulphates, alcohol;0,469012363
+RandomForestRegressor;fixed acidity, volatile acidity, residual sugar, chlorides, free sulfur dioxide, pH, sulphates, alcohol;0,468978067
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, free sulfur dioxide, pH, sulphates, alcohol;0,468905359
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, residual sugar, total sulfur dioxide, density, sulphates, alcohol;0,468830592
+RandomForestRegressor;volatile acidity, citric acid, chlorides, free sulfur dioxide, total sulfur dioxide, density, sulphates, alcohol;0,468751025
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, residual sugar, chlorides, free sulfur dioxide, density, pH, sulphates, alcohol;0,46850752
+RandomForestRegressor;citric acid, residual sugar, chlorides, free sulfur dioxide, total sulfur dioxide, pH, sulphates, alcohol;0,468250983
+RandomForestRegressor;volatile acidity, citric acid, residual sugar, total sulfur dioxide, density, sulphates, alcohol;0,468233149
+RandomForestRegressor;fixed acidity, volatile acidity, chlorides, free sulfur dioxide, total sulfur dioxide, density, sulphates, alcohol;0,468135062
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, residual sugar, chlorides, total sulfur dioxide, density, sulphates, alcohol;0,467998905
+RandomForestRegressor;volatile acidity, residual sugar, free sulfur dioxide, total sulfur dioxide, pH, sulphates, alcohol;0,467970096
+RandomForestRegressor;volatile acidity, chlorides, total sulfur dioxide, pH, sulphates, alcohol;0,467890871
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, chlorides, free sulfur dioxide, total sulfur dioxide, density, sulphates, alcohol;0,467861376
+RandomForestRegressor;volatile acidity, citric acid, chlorides, total sulfur dioxide, density, sulphates, alcohol;0,467785924
+RandomForestRegressor;volatile acidity, citric acid, chlorides, pH, sulphates, alcohol;0,467700526
+RandomForestRegressor;volatile acidity, residual sugar, chlorides, free sulfur dioxide, total sulfur dioxide, sulphates, alcohol;0,467633306
+RandomForestRegressor;fixed acidity, citric acid, residual sugar, chlorides, free sulfur dioxide, total sulfur dioxide, sulphates, alcohol;0,4676165
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, residual sugar, chlorides, free sulfur dioxide, total sulfur dioxide, density, sulphates, alcohol;0,467462167
+RandomForestRegressor;fixed acidity, volatile acidity, residual sugar, free sulfur dioxide, pH, sulphates, alcohol;0,46745565
+RandomForestRegressor;fixed acidity, volatile acidity, residual sugar, chlorides, free sulfur dioxide, total sulfur dioxide, density, pH, sulphates, alcohol;0,46740592
+RandomForestRegressor;volatile acidity, residual sugar, total sulfur dioxide, density, pH, sulphates, alcohol;0,467259818
+RandomForestRegressor;fixed acidity, volatile acidity, residual sugar, chlorides, total sulfur dioxide, sulphates, alcohol;0,467181622
+RandomForestRegressor;citric acid, residual sugar, free sulfur dioxide, total sulfur dioxide, density, pH, sulphates, alcohol;0,466967956
+RandomForestRegressor;fixed acidity, residual sugar, free sulfur dioxide, total sulfur dioxide, pH, sulphates, alcohol;0,466859922
+RandomForestRegressor;volatile acidity, citric acid, free sulfur dioxide, total sulfur dioxide, density, pH, sulphates, alcohol;0,466693585
+RandomForestRegressor;volatile acidity, residual sugar, free sulfur dioxide, pH, sulphates, alcohol;0,466474431
+RandomForestRegressor;fixed acidity, volatile acidity, total sulfur dioxide, density, pH, sulphates, alcohol;0,466450423
+RandomForestRegressor;volatile acidity, citric acid, chlorides, total sulfur dioxide, pH, sulphates, alcohol;0,466225096
+RandomForestRegressor;volatile acidity, citric acid, residual sugar, total sulfur dioxide, sulphates, alcohol;0,466141756
+RandomForestRegressor;volatile acidity, citric acid, residual sugar, free sulfur dioxide, pH, sulphates, alcohol;0,46607625
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, residual sugar, total sulfur dioxide, density, pH, sulphates, alcohol;0,465977476
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, residual sugar, chlorides, total sulfur dioxide, density, sulphates;0,465971989
+RandomForestRegressor;fixed acidity, volatile acidity, chlorides, total sulfur dioxide, pH, sulphates, alcohol;0,465854695
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, chlorides, free sulfur dioxide, density, pH, sulphates, alcohol;0,465805308
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, chlorides, free sulfur dioxide, pH, sulphates, alcohol;0,465587869
+RandomForestRegressor;volatile acidity, citric acid, residual sugar, chlorides, free sulfur dioxide, sulphates, alcohol;0,465409528
+RandomForestRegressor;volatile acidity, citric acid, residual sugar, free sulfur dioxide, total sulfur dioxide, density, sulphates, alcohol;0,465387235
+RandomForestRegressor;fixed acidity, volatile acidity, chlorides, free sulfur dioxide, total sulfur dioxide, density, pH, sulphates, alcohol;0,465262739
+RandomForestRegressor;fixed acidity, volatile acidity, chlorides, total sulfur dioxide, density, pH, sulphates, alcohol;0,465260339
+RandomForestRegressor;fixed acidity, citric acid, residual sugar, free sulfur dioxide, total sulfur dioxide, pH, sulphates, alcohol;0,465216782
+RandomForestRegressor;volatile acidity, citric acid, chlorides, free sulfur dioxide, total sulfur dioxide, sulphates, alcohol;0,465064506
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, total sulfur dioxide, density, sulphates, alcohol;0,465007574
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, residual sugar, chlorides, total sulfur dioxide, pH, sulphates, alcohol;0,464962646
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, residual sugar, free sulfur dioxide, density, sulphates, alcohol;0,46493075
+RandomForestRegressor;volatile acidity, residual sugar, chlorides, free sulfur dioxide, total sulfur dioxide, density, pH, sulphates, alcohol;0,464915317
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, residual sugar, chlorides, density, pH, sulphates, alcohol;0,464869017
+RandomForestRegressor;volatile acidity, free sulfur dioxide, total sulfur dioxide, density, pH, sulphates, alcohol;0,464806254
+RandomForestRegressor;fixed acidity, citric acid, residual sugar, chlorides, free sulfur dioxide, total sulfur dioxide, density, pH, sulphates, alcohol;0,464771615
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, chlorides, density, pH, sulphates, alcohol;0,464739719
+RandomForestRegressor;fixed acidity, volatile acidity, chlorides, total sulfur dioxide, sulphates, alcohol;0,464712968
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, residual sugar, chlorides, free sulfur dioxide, density, sulphates, alcohol;0,464339823
+RandomForestRegressor;fixed acidity, volatile acidity, residual sugar, chlorides, free sulfur dioxide, density, pH, sulphates, alcohol;0,46417623
+RandomForestRegressor;fixed acidity, volatile acidity, chlorides, free sulfur dioxide, total sulfur dioxide, sulphates, alcohol;0,464165255
+RandomForestRegressor;citric acid, free sulfur dioxide, total sulfur dioxide, density, pH, sulphates, alcohol;0,464103178
+RandomForestRegressor;fixed acidity, residual sugar, chlorides, free sulfur dioxide, total sulfur dioxide, pH, sulphates, alcohol;0,464025669
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, residual sugar, free sulfur dioxide, total sulfur dioxide, density, sulphates, alcohol;0,464011264
+RandomForestRegressor;fixed acidity, chlorides, free sulfur dioxide, total sulfur dioxide, pH, sulphates, alcohol;0,463897743
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, residual sugar, chlorides, total sulfur dioxide, sulphates, alcohol;0,46381063
+RandomForestRegressor;fixed acidity, citric acid, residual sugar, free sulfur dioxide, total sulfur dioxide, sulphates, alcohol;0,463686477
+RandomForestRegressor;citric acid, residual sugar, free sulfur dioxide, total sulfur dioxide, pH, sulphates, alcohol;0,463596964
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, chlorides, free sulfur dioxide, total sulfur dioxide, sulphates, alcohol;0,463577758
+RandomForestRegressor;volatile acidity, citric acid, residual sugar, free sulfur dioxide, density, pH, sulphates, alcohol;0,463533172
+RandomForestRegressor;fixed acidity, volatile acidity, chlorides, pH, sulphates, alcohol;0,463505392
+RandomForestRegressor;fixed acidity, volatile acidity, residual sugar, free sulfur dioxide, density, pH, sulphates, alcohol;0,463190209
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, residual sugar, chlorides, free sulfur dioxide, total sulfur dioxide, density, sulphates;0,463112013
+RandomForestRegressor;volatile acidity, chlorides, free sulfur dioxide, total sulfur dioxide, density, pH, sulphates, alcohol;0,462976885
+RandomForestRegressor;citric acid, chlorides, free sulfur dioxide, total sulfur dioxide, sulphates, alcohol;0,462934015
+RandomForestRegressor;volatile acidity, citric acid, chlorides, density, pH, sulphates, alcohol;0,462934015
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, residual sugar, chlorides, free sulfur dioxide, pH, sulphates, alcohol;0,462833526
+RandomForestRegressor;fixed acidity, residual sugar, free sulfur dioxide, total sulfur dioxide, sulphates, alcohol;0,462673705
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, total sulfur dioxide, pH, sulphates, alcohol;0,46251114
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, residual sugar, total sulfur dioxide, sulphates, alcohol;0,462435002
+RandomForestRegressor;volatile acidity, citric acid, chlorides, free sulfur dioxide, density, pH, sulphates, alcohol;0,462427114
+RandomForestRegressor;fixed acidity, volatile acidity, residual sugar, chlorides, free sulfur dioxide, total sulfur dioxide, sulphates, alcohol;0,462231968
+RandomForestRegressor;fixed acidity, volatile acidity, residual sugar, chlorides, free sulfur dioxide, sulphates, alcohol;0,462076262
+RandomForestRegressor;fixed acidity, volatile acidity, free sulfur dioxide, density, pH, sulphates, alcohol;0,461752161
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, chlorides, total sulfur dioxide, sulphates, alcohol;0,461637954
+RandomForestRegressor;volatile acidity, citric acid, chlorides, free sulfur dioxide, pH, sulphates, alcohol;0,461606401
+RandomForestRegressor;volatile acidity, residual sugar, free sulfur dioxide, total sulfur dioxide, sulphates, alcohol;0,461426002
+RandomForestRegressor;fixed acidity, citric acid, chlorides, free sulfur dioxide, total sulfur dioxide, density, sulphates, alcohol;0,461337175
+RandomForestRegressor;citric acid, free sulfur dioxide, total sulfur dioxide, pH, sulphates, alcohol;0,461318998
+RandomForestRegressor;fixed acidity, citric acid, chlorides, free sulfur dioxide, total sulfur dioxide, sulphates, alcohol;0,461313853
+RandomForestRegressor;volatile acidity, citric acid, chlorides, free sulfur dioxide, density, sulphates, alcohol;0,461306308
+RandomForestRegressor;fixed acidity, citric acid, free sulfur dioxide, total sulfur dioxide, density, pH, sulphates, alcohol;0,461051143
+RandomForestRegressor;fixed acidity, citric acid, total sulfur dioxide, density, pH, sulphates, alcohol;0,460869029
+RandomForestRegressor;citric acid, free sulfur dioxide, total sulfur dioxide, sulphates, alcohol;0,460838162
+RandomForestRegressor;citric acid, free sulfur dioxide, total sulfur dioxide, density, sulphates, alcohol;0,460748992
+RandomForestRegressor;citric acid, residual sugar, free sulfur dioxide, total sulfur dioxide, sulphates, alcohol;0,460728071
+RandomForestRegressor;volatile acidity, citric acid, residual sugar, chlorides, total sulfur dioxide, density, sulphates;0,460715381
+RandomForestRegressor;volatile acidity, free sulfur dioxide, pH, sulphates, alcohol;0,460696518
+RandomForestRegressor;volatile acidity, residual sugar, chlorides, free sulfur dioxide, total sulfur dioxide, density, pH, sulphates;0,460686915
+RandomForestRegressor;fixed acidity, volatile acidity, residual sugar, chlorides, total sulfur dioxide, density, pH, sulphates;0,460649189
+RandomForestRegressor;chlorides, free sulfur dioxide, total sulfur dioxide, pH, sulphates, alcohol;0,460618665
+RandomForestRegressor;volatile acidity, residual sugar, chlorides, free sulfur dioxide, density, pH, sulphates, alcohol;0,460592943
+RandomForestRegressor;volatile acidity, residual sugar, total sulfur dioxide, pH, sulphates, alcohol;0,460567564
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, residual sugar, chlorides, total sulfur dioxide, density, pH, sulphates;0,460551445
+RandomForestRegressor;fixed acidity, volatile acidity, chlorides, free sulfur dioxide, density, pH, sulphates, alcohol;0,460510632
+RandomForestRegressor;volatile acidity, citric acid, residual sugar, chlorides, free sulfur dioxide, total sulfur dioxide, sulphates, alcohol;0,460495199
+RandomForestRegressor;residual sugar, chlorides, free sulfur dioxide, total sulfur dioxide, pH, sulphates, alcohol;0,460479422
+RandomForestRegressor;volatile acidity, citric acid, residual sugar, density, pH, sulphates, alcohol;0,460410486
+RandomForestRegressor;volatile acidity, citric acid, residual sugar, chlorides, density, pH, sulphates, alcohol;0,460135429
+RandomForestRegressor;fixed acidity, volatile acidity, chlorides, free sulfur dioxide, pH, sulphates, alcohol;0,460034941
+RandomForestRegressor;volatile acidity, citric acid, residual sugar, total sulfur dioxide, density, pH, sulphates;0,459920391
+RandomForestRegressor;fixed acidity, citric acid, residual sugar, free sulfur dioxide, total sulfur dioxide, density, sulphates, alcohol;0,459905301
+RandomForestRegressor;fixed acidity, volatile acidity, free sulfur dioxide, pH, sulphates, alcohol;0,459847683
+RandomForestRegressor;volatile acidity, residual sugar, free sulfur dioxide, density, pH, sulphates, alcohol;0,459762971
+RandomForestRegressor;fixed acidity, citric acid, residual sugar, chlorides, total sulfur dioxide, pH, sulphates, alcohol;0,459243037
+RandomForestRegressor;volatile acidity, citric acid, chlorides, total sulfur dioxide, sulphates, alcohol;0,459163813
+RandomForestRegressor;volatile acidity, total sulfur dioxide, density, pH, sulphates, alcohol;0,459156953
+RandomForestRegressor;citric acid, chlorides, free sulfur dioxide, total sulfur dioxide, density, pH, sulphates, alcohol;0,45903966
+RandomForestRegressor;volatile acidity, residual sugar, total sulfur dioxide, density, sulphates, alcohol;0,459020797
+RandomForestRegressor;volatile acidity, free sulfur dioxide, total sulfur dioxide, density, sulphates, alcohol;0,458896644
+RandomForestRegressor;citric acid, residual sugar, chlorides, free sulfur dioxide, total sulfur dioxide, sulphates, alcohol;0,458807473
+RandomForestRegressor;volatile acidity, residual sugar, chlorides, free sulfur dioxide, pH, sulphates, alcohol;0,458781751
+RandomForestRegressor;fixed acidity, volatile acidity, free sulfur dioxide, total sulfur dioxide, density, sulphates, alcohol;0,458710072
+RandomForestRegressor;fixed acidity, volatile acidity, residual sugar, total sulfur dioxide, density, sulphates, alcohol;0,458695324
+RandomForestRegressor;fixed acidity, volatile acidity, residual sugar, chlorides, density, pH, sulphates, alcohol;0,458467596
+RandomForestRegressor;fixed acidity, citric acid, residual sugar, total sulfur dioxide, density, pH, sulphates, alcohol;0,458391801
+RandomForestRegressor;fixed acidity, volatile acidity, residual sugar, total sulfur dioxide, sulphates, alcohol;0,458342414
+RandomForestRegressor;volatile acidity, citric acid, chlorides, free sulfur dioxide, sulphates, alcohol;0,458046779
+RandomForestRegressor;fixed acidity, citric acid, residual sugar, free sulfur dioxide, pH, sulphates, alcohol;0,458023458
+RandomForestRegressor;volatile acidity, citric acid, free sulfur dioxide, pH, sulphates, alcohol;0,457824539
+RandomForestRegressor;fixed acidity, citric acid, free sulfur dioxide, total sulfur dioxide, pH, sulphates, alcohol;0,457423271
+RandomForestRegressor;volatile acidity, total sulfur dioxide, pH, sulphates, alcohol;0,457380058
+RandomForestRegressor;fixed acidity, citric acid, residual sugar, chlorides, free sulfur dioxide, total sulfur dioxide, density, sulphates, alcohol;0,457249045
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, residual sugar, chlorides, free sulfur dioxide, sulphates, alcohol;0,457163305
+RandomForestRegressor;fixed acidity, volatile acidity, residual sugar, chlorides, total sulfur dioxide, density, sulphates, alcohol;0,456998339
+RandomForestRegressor;volatile acidity, chlorides, free sulfur dioxide, pH, sulphates, alcohol;0,456977761
+RandomForestRegressor;volatile acidity, residual sugar, chlorides, total sulfur dioxide, density, sulphates, alcohol;0,456920486
+RandomForestRegressor;volatile acidity, citric acid, free sulfur dioxide, density, pH, sulphates, alcohol;0,456640628
+RandomForestRegressor;volatile acidity, citric acid, residual sugar, pH, sulphates, alcohol;0,456538081
+RandomForestRegressor;volatile acidity, residual sugar, free sulfur dioxide, total sulfur dioxide, density, sulphates, alcohol;0,456462972
+RandomForestRegressor;fixed acidity, citric acid, chlorides, total sulfur dioxide, pH, sulphates, alcohol;0,456369
+RandomForestRegressor;citric acid, chlorides, free sulfur dioxide, pH, sulphates, alcohol;0,456339162
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, free sulfur dioxide, density, pH, sulphates, alcohol;0,456327502
+RandomForestRegressor;fixed acidity, volatile acidity, residual sugar, free sulfur dioxide, density, sulphates, alcohol;0,456283945
+RandomForestRegressor;volatile acidity, citric acid, residual sugar, chlorides, free sulfur dioxide, total sulfur dioxide, density, pH, sulphates;0,45618037
+RandomForestRegressor;volatile acidity, citric acid, residual sugar, chlorides, free sulfur dioxide, pH, sulphates, alcohol;0,456065477
+RandomForestRegressor;residual sugar, chlorides, total sulfur dioxide, pH, sulphates, alcohol;0,456018491
+RandomForestRegressor;volatile acidity, chlorides, total sulfur dioxide, density, pH, sulphates, alcohol;0,455993455
+RandomForestRegressor;fixed acidity, citric acid, free sulfur dioxide, total sulfur dioxide, density, sulphates, alcohol;0,455842551
+RandomForestRegressor;volatile acidity, citric acid, residual sugar, chlorides, free sulfur dioxide, density, pH, sulphates, alcohol;0,455680672
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, free sulfur dioxide, sulphates, alcohol;0,455439911
+RandomForestRegressor;fixed acidity, volatile acidity, chlorides, total sulfur dioxide, density, sulphates, alcohol;0,455203952
+RandomForestRegressor;volatile acidity, citric acid, residual sugar, chlorides, total sulfur dioxide, density, pH, sulphates;0,455110666
+RandomForestRegressor;fixed acidity, residual sugar, total sulfur dioxide, pH, sulphates, alcohol;0,454998517
+RandomForestRegressor;fixed acidity, citric acid, free sulfur dioxide, density, pH, sulphates, alcohol;0,454938155
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, chlorides, pH, sulphates, alcohol;0,454909003
+RandomForestRegressor;volatile acidity, citric acid, chlorides, total sulfur dioxide, density, sulphates;0,454902487
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, free sulfur dioxide, density, sulphates, alcohol;0,454858587
+RandomForestRegressor;chlorides, total sulfur dioxide, pH, sulphates, alcohol;0,454816746
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, residual sugar, chlorides, pH, sulphates, alcohol;0,454748496
+RandomForestRegressor;volatile acidity, citric acid, residual sugar, free sulfur dioxide, sulphates, alcohol;0,454706654
+RandomForestRegressor;fixed acidity, volatile acidity, residual sugar, chlorides, free sulfur dioxide, total sulfur dioxide, density, sulphates;0,454696365
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, residual sugar, free sulfur dioxide, density, pH, sulphates, alcohol;0,454606852
+RandomForestRegressor;fixed acidity, volatile acidity, chlorides, free sulfur dioxide, sulphates, alcohol;0,454583873
+RandomForestRegressor;citric acid, chlorides, total sulfur dioxide, pH, sulphates, alcohol;0,454563981
+RandomForestRegressor;fixed acidity, residual sugar, chlorides, total sulfur dioxide, density, pH, sulphates, alcohol;0,45451288
+RandomForestRegressor;volatile acidity, chlorides, total sulfur dioxide, density, sulphates, alcohol;0,454373293
+RandomForestRegressor;fixed acidity, citric acid, chlorides, total sulfur dioxide, sulphates, alcohol;0,454313275
+RandomForestRegressor;citric acid, chlorides, free sulfur dioxide, total sulfur dioxide, density, sulphates, alcohol;0,454308473
+RandomForestRegressor;volatile acidity, residual sugar, chlorides, total sulfur dioxide, density, pH, sulphates;0,454274863
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, residual sugar, density, sulphates, alcohol;0,454189465
+RandomForestRegressor;fixed acidity, citric acid, total sulfur dioxide, pH, sulphates, alcohol;0,454189122
+RandomForestRegressor;fixed acidity, free sulfur dioxide, total sulfur dioxide, pH, sulphates, alcohol;0,45414145
+RandomForestRegressor;fixed acidity, citric acid, chlorides, total sulfur dioxide, density, pH, sulphates, alcohol;0,453954878
+RandomForestRegressor;volatile acidity, chlorides, free sulfur dioxide, density, pH, sulphates, alcohol;0,453947332
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, pH, sulphates, alcohol;0,45387531
+RandomForestRegressor;volatile acidity, citric acid, free sulfur dioxide, density, sulphates, alcohol;0,453824208
+RandomForestRegressor;volatile acidity, citric acid, free sulfur dioxide, total sulfur dioxide, density, sulphates, alcohol;0,453637636
+RandomForestRegressor;fixed acidity, volatile acidity, residual sugar, chlorides, free sulfur dioxide, total sulfur dioxide, density, sulphates, alcohol;0,453584477
+RandomForestRegressor;volatile acidity, citric acid, total sulfur dioxide, density, sulphates, alcohol;0,453560812
+RandomForestRegressor;fixed acidity, citric acid, chlorides, free sulfur dioxide, total sulfur dioxide, density, pH, sulphates, alcohol;0,45347267
+RandomForestRegressor;volatile acidity, chlorides, total sulfur dioxide, sulphates, alcohol;0,453439746
+RandomForestRegressor;volatile acidity, citric acid, residual sugar, free sulfur dioxide, total sulfur dioxide, density, sulphates;0,453380756
+RandomForestRegressor;fixed acidity, chlorides, total sulfur dioxide, density, pH, sulphates, alcohol;0,453280268
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, chlorides, free sulfur dioxide, density, sulphates, alcohol;0,453267235
+RandomForestRegressor;residual sugar, total sulfur dioxide, pH, sulphates, alcohol;0,453252145
+RandomForestRegressor;volatile acidity, citric acid, total sulfur dioxide, density, pH, sulphates, alcohol;0,452886545
+RandomForestRegressor;volatile acidity, chlorides, free sulfur dioxide, density, sulphates, alcohol;0,452850877
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, residual sugar, pH, sulphates, alcohol;0,452817266
+RandomForestRegressor;volatile acidity, residual sugar, density, pH, sulphates, alcohol;0,452562787
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, residual sugar, free sulfur dioxide, sulphates, alcohol;0,452530206
+RandomForestRegressor;citric acid, residual sugar, chlorides, total sulfur dioxide, sulphates, alcohol;0,452486306
+RandomForestRegressor;citric acid, residual sugar, chlorides, free sulfur dioxide, density, pH, sulphates, alcohol;0,452366612
+RandomForestRegressor;fixed acidity, citric acid, chlorides, free sulfur dioxide, pH, sulphates, alcohol;0,452275383
+RandomForestRegressor;volatile acidity, residual sugar, total sulfur dioxide, sulphates, alcohol;0,452164263
+RandomForestRegressor;volatile acidity, residual sugar, chlorides, free sulfur dioxide, total sulfur dioxide, density, sulphates;0,452075436
+RandomForestRegressor;fixed acidity, citric acid, residual sugar, chlorides, free sulfur dioxide, total sulfur dioxide, density, pH, sulphates;0,451992095
+RandomForestRegressor;fixed acidity, citric acid, residual sugar, total sulfur dioxide, density, sulphates, alcohol;0,451891264
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, residual sugar, chlorides, free sulfur dioxide, total sulfur dioxide, density, pH, sulphates;0,451872744
+RandomForestRegressor;fixed acidity, chlorides, total sulfur dioxide, pH, sulphates, alcohol;0,451817184
+RandomForestRegressor;volatile acidity, free sulfur dioxide, total sulfur dioxide, sulphates, alcohol;0,451774656
+RandomForestRegressor;volatile acidity, citric acid, residual sugar, chlorides, density, sulphates, alcohol;0,45171841
+RandomForestRegressor;fixed acidity, free sulfur dioxide, pH, sulphates, alcohol;0,451686172
+RandomForestRegressor;citric acid, residual sugar, free sulfur dioxide, total sulfur dioxide, density, sulphates, alcohol;0,451541784
+RandomForestRegressor;volatile acidity, residual sugar, chlorides, density, pH, sulphates, alcohol;0,45151126
+RandomForestRegressor;volatile acidity, citric acid, residual sugar, chlorides, total sulfur dioxide, sulphates, alcohol;0,451479364
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, total sulfur dioxide, sulphates, alcohol;0,451422775
+RandomForestRegressor;fixed acidity, citric acid, residual sugar, chlorides, free sulfur dioxide, density, pH, sulphates, alcohol;0,451379219
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, chlorides, sulphates, alcohol;0,451265012
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, residual sugar, total sulfur dioxide, density, sulphates;0,451239633
+RandomForestRegressor;volatile acidity, residual sugar, chlorides, total sulfur dioxide, density, sulphates;0,451144632
+RandomForestRegressor;fixed acidity, volatile acidity, residual sugar, chlorides, free sulfur dioxide, density, sulphates, alcohol;0,451128855
+RandomForestRegressor;fixed acidity, volatile acidity, residual sugar, pH, sulphates, alcohol;0,451038999
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, residual sugar, free sulfur dioxide, total sulfur dioxide, density, sulphates;0,450930279
+RandomForestRegressor;fixed acidity, residual sugar, total sulfur dioxide, density, pH, sulphates, alcohol;0,450920676
+RandomForestRegressor;free sulfur dioxide, total sulfur dioxide, pH, sulphates, alcohol;0,450846939
+RandomForestRegressor;volatile acidity, citric acid, density, pH, sulphates, alcohol;0,450819845
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, residual sugar, density, pH, sulphates, alcohol;0,450778689
+RandomForestRegressor;residual sugar, free sulfur dioxide, total sulfur dioxide, pH, sulphates, alcohol;0,450649735
+RandomForestRegressor;fixed acidity, citric acid, residual sugar, chlorides, total sulfur dioxide, density, sulphates, alcohol;0,45062607
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, residual sugar, total sulfur dioxide, density, pH, sulphates;0,450444985
+RandomForestRegressor;volatile acidity, residual sugar, free sulfur dioxide, total sulfur dioxide, density, sulphates;0,450380165
+RandomForestRegressor;volatile acidity, citric acid, total sulfur dioxide, sulphates, alcohol;0,450355472
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, residual sugar, chlorides, free sulfur dioxide, density, sulphates;0,450351699
+RandomForestRegressor;volatile acidity, citric acid, residual sugar, density, sulphates, alcohol;0,45013426
+RandomForestRegressor;fixed acidity, residual sugar, chlorides, free sulfur dioxide, total sulfur dioxide, sulphates, alcohol;0,450075956
+RandomForestRegressor;volatile acidity, residual sugar, total sulfur dioxide, density, sulphates;0,450070469
+RandomForestRegressor;citric acid, residual sugar, total sulfur dioxide, density, pH, sulphates, alcohol;0,450014909
+RandomForestRegressor;fixed acidity, chlorides, free sulfur dioxide, total sulfur dioxide, density, pH, sulphates, alcohol;0,449885611
+RandomForestRegressor;volatile acidity, citric acid, chlorides, density, sulphates, alcohol;0,449797812
+RandomForestRegressor;fixed acidity, volatile acidity, free sulfur dioxide, density, sulphates, alcohol;0,449789581
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, residual sugar, chlorides, free sulfur dioxide, density, pH, sulphates;0,449500463
+RandomForestRegressor;residual sugar, chlorides, free sulfur dioxide, total sulfur dioxide, density, pH, sulphates, alcohol;0,449438043
+RandomForestRegressor;fixed acidity, citric acid, total sulfur dioxide, density, sulphates, alcohol;0,449430841
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, chlorides, free sulfur dioxide, sulphates, alcohol;0,44942844
+RandomForestRegressor;citric acid, residual sugar, free sulfur dioxide, pH, sulphates, alcohol;0,449357104
+RandomForestRegressor;volatile acidity, citric acid, residual sugar, total sulfur dioxide, density, sulphates;0,449217861
+RandomForestRegressor;residual sugar, chlorides, total sulfur dioxide, density, pH, sulphates, alcohol;0,449179449
+RandomForestRegressor;volatile acidity, residual sugar, chlorides, pH, sulphates, alcohol;0,449118744
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, chlorides, free sulfur dioxide, total sulfur dioxide, density, pH, sulphates;0,449111199
+RandomForestRegressor;volatile acidity, citric acid, residual sugar, free sulfur dioxide, total sulfur dioxide, density, pH, sulphates;0,448922226
+RandomForestRegressor;fixed acidity, residual sugar, chlorides, free sulfur dioxide, total sulfur dioxide, density, pH, sulphates, alcohol;0,448761033
+RandomForestRegressor;volatile acidity, citric acid, free sulfur dioxide, total sulfur dioxide, sulphates, alcohol;0,448747657
+RandomForestRegressor;fixed acidity, volatile acidity, residual sugar, free sulfur dioxide, total sulfur dioxide, density, pH, sulphates;0,448733939
+RandomForestRegressor;citric acid, residual sugar, chlorides, total sulfur dioxide, pH, sulphates, alcohol;0,448720563
+RandomForestRegressor;fixed acidity, volatile acidity, chlorides, density, pH, sulphates, alcohol;0,448638938
+RandomForestRegressor;fixed acidity, free sulfur dioxide, total sulfur dioxide, density, pH, sulphates, alcohol;0,448571031
+RandomForestRegressor;volatile acidity, free sulfur dioxide, density, sulphates, alcohol;0,448521987
+RandomForestRegressor;citric acid, residual sugar, chlorides, total sulfur dioxide, density, pH, sulphates, alcohol;0,448503467
+RandomForestRegressor;fixed acidity, citric acid, free sulfur dioxide, density, sulphates, alcohol;0,448309692
+RandomForestRegressor;fixed acidity, volatile acidity, chlorides, free sulfur dioxide, total sulfur dioxide, density, sulphates;0,448201659
+RandomForestRegressor;citric acid, residual sugar, chlorides, free sulfur dioxide, sulphates, alcohol;0,448173193
+RandomForestRegressor;citric acid, residual sugar, chlorides, free sulfur dioxide, total sulfur dioxide, density, sulphates, alcohol;0,448082307
+RandomForestRegressor;fixed acidity, residual sugar, free sulfur dioxide, density, pH, sulphates, alcohol;0,447797647
+RandomForestRegressor;volatile acidity, citric acid, residual sugar, chlorides, free sulfur dioxide, density, sulphates;0,447794561
+RandomForestRegressor;volatile acidity, chlorides, free sulfur dioxide, sulphates, alcohol;0,447709848
+RandomForestRegressor;fixed acidity, volatile acidity, pH, sulphates, alcohol;0,447694758
+RandomForestRegressor;fixed acidity, residual sugar, chlorides, free sulfur dioxide, density, pH, sulphates, alcohol;0,447678296
+RandomForestRegressor;citric acid, residual sugar, chlorides, free sulfur dioxide, total sulfur dioxide, density, pH, sulphates, alcohol;0,447334989
+RandomForestRegressor;fixed acidity, citric acid, residual sugar, total sulfur dioxide, sulphates, alcohol;0,447304808
+RandomForestRegressor;fixed acidity, volatile acidity, residual sugar, chlorides, total sulfur dioxide, density, sulphates;0,447254735
+RandomForestRegressor;residual sugar, free sulfur dioxide, total sulfur dioxide, density, pH, sulphates, alcohol;0,447103831
+RandomForestRegressor;fixed acidity, citric acid, residual sugar, free sulfur dioxide, sulphates, alcohol;0,446945725
+RandomForestRegressor;volatile acidity, citric acid, residual sugar, chlorides, pH, sulphates, alcohol;0,44687576
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, residual sugar, chlorides, sulphates, alcohol;0,446855868
+RandomForestRegressor;fixed acidity, residual sugar, chlorides, free sulfur dioxide, total sulfur dioxide, density, sulphates, alcohol;0,446806482
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, chlorides, free sulfur dioxide, total sulfur dioxide, density, sulphates;0,446656263
+RandomForestRegressor;fixed acidity, citric acid, chlorides, free sulfur dioxide, density, pH, sulphates, alcohol;0,446547201
+RandomForestRegressor;fixed acidity, residual sugar, chlorides, total sulfur dioxide, pH, sulphates, alcohol;0,446452543
+RandomForestRegressor;fixed acidity, citric acid, residual sugar, free sulfur dioxide, density, sulphates, alcohol;0,44637469
+RandomForestRegressor;fixed acidity, volatile acidity, residual sugar, free sulfur dioxide, sulphates, alcohol;0,446254653
+RandomForestRegressor;citric acid, residual sugar, free sulfur dioxide, density, pH, sulphates, alcohol;0,446234418
+RandomForestRegressor;fixed acidity, volatile acidity, residual sugar, chlorides, free sulfur dioxide, total sulfur dioxide, density, pH, sulphates;0,446234075
+RandomForestRegressor;volatile acidity, residual sugar, chlorides, free sulfur dioxide, sulphates, alcohol;0,44619875
+RandomForestRegressor;fixed acidity, volatile acidity, residual sugar, chlorides, pH, sulphates, alcohol;0,446091745
+RandomForestRegressor;fixed acidity, citric acid, free sulfur dioxide, sulphates, alcohol;0,446079055
+RandomForestRegressor;volatile acidity, residual sugar, chlorides, free sulfur dioxide, density, sulphates, alcohol;0,446020408
+RandomForestRegressor;fixed acidity, residual sugar, free sulfur dioxide, pH, sulphates, alcohol;0,445975823
+RandomForestRegressor;volatile acidity, total sulfur dioxide, density, sulphates, alcohol;0,445898999
+RandomForestRegressor;fixed acidity, chlorides, free sulfur dioxide, pH, sulphates, alcohol;0,445776904
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, residual sugar, free sulfur dioxide, density, sulphates;0,445757355
+RandomForestRegressor;volatile acidity, citric acid, residual sugar, free sulfur dioxide, density, sulphates;0,445633202
+RandomForestRegressor;citric acid, residual sugar, free sulfur dioxide, sulphates, alcohol;0,445601307
+RandomForestRegressor;fixed acidity, chlorides, free sulfur dioxide, total sulfur dioxide, density, sulphates, alcohol;0,445541288
+RandomForestRegressor;fixed acidity, volatile acidity, chlorides, free sulfur dioxide, density, sulphates, alcohol;0,445525512
+RandomForestRegressor;chlorides, free sulfur dioxide, total sulfur dioxide, density, pH, sulphates, alcohol;0,445516594
+RandomForestRegressor;fixed acidity, residual sugar, chlorides, free sulfur dioxide, pH, sulphates, alcohol;0,445142421
+RandomForestRegressor;residual sugar, chlorides, free sulfur dioxide, total sulfur dioxide, sulphates, alcohol;0,445100922
+RandomForestRegressor;volatile acidity, citric acid, chlorides, free sulfur dioxide, total sulfur dioxide, density, sulphates;0,445016896
+RandomForestRegressor;fixed acidity, volatile acidity, total sulfur dioxide, density, sulphates, alcohol;0,444972997
+RandomForestRegressor;fixed acidity, volatile acidity, total sulfur dioxide, sulphates, alcohol;0,444908863
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, residual sugar, sulphates, alcohol;0,444865649
+RandomForestRegressor;fixed acidity, chlorides, free sulfur dioxide, total sulfur dioxide, sulphates, alcohol;0,444596079
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, density, pH, sulphates, alcohol;0,444396132
+RandomForestRegressor;volatile acidity, chlorides, pH, sulphates, alcohol;0,444347431
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, residual sugar, chlorides, density, sulphates;0,444340228
+RandomForestRegressor;volatile acidity, residual sugar, free sulfur dioxide, sulphates, alcohol;0,44428261
+RandomForestRegressor;fixed acidity, citric acid, residual sugar, chlorides, free sulfur dioxide, pH, sulphates, alcohol;0,444275408
+RandomForestRegressor;volatile acidity, chlorides, free sulfur dioxide, total sulfur dioxide, density, pH, sulphates;0,444269578
+RandomForestRegressor;volatile acidity, chlorides, density, pH, sulphates, alcohol;0,444122103
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, chlorides, total sulfur dioxide, density, pH, sulphates;0,4440638
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, residual sugar, free sulfur dioxide, total sulfur dioxide, density, pH, sulphates;0,444004467
+RandomForestRegressor;citric acid, residual sugar, chlorides, free sulfur dioxide, pH, sulphates, alcohol;0,443809663
+RandomForestRegressor;volatile acidity, density, pH, sulphates, alcohol;0,443752731
+RandomForestRegressor;volatile acidity, citric acid, chlorides, free sulfur dioxide, total sulfur dioxide, density, pH, sulphates;0,4436056
+RandomForestRegressor;fixed acidity, citric acid, residual sugar, free sulfur dioxide, density, pH, sulphates, alcohol;0,443446808
+RandomForestRegressor;fixed acidity, citric acid, residual sugar, chlorides, total sulfur dioxide, density, pH, sulphates, alcohol;0,443196444
+RandomForestRegressor;volatile acidity, residual sugar, free sulfur dioxide, density, sulphates, alcohol;0,443015702
+RandomForestRegressor;fixed acidity, citric acid, residual sugar, chlorides, free sulfur dioxide, density, sulphates, alcohol;0,442947795
+RandomForestRegressor;fixed acidity, citric acid, chlorides, free sulfur dioxide, sulphates, alcohol;0,442858282
+RandomForestRegressor;fixed acidity, residual sugar, total sulfur dioxide, sulphates, alcohol;0,442396995
+RandomForestRegressor;volatile acidity, citric acid, free sulfur dioxide, sulphates, alcohol;0,442288276
+RandomForestRegressor;chlorides, free sulfur dioxide, pH, sulphates, alcohol;0,442140458
+RandomForestRegressor;fixed acidity, residual sugar, free sulfur dioxide, total sulfur dioxide, density, sulphates, alcohol;0,442138057
+RandomForestRegressor;fixed acidity, citric acid, residual sugar, free sulfur dioxide, total sulfur dioxide, density, pH, sulphates;0,442040313
+RandomForestRegressor;volatile acidity, citric acid, pH, sulphates, alcohol;0,441952514
+RandomForestRegressor;fixed acidity, volatile acidity, density, pH, sulphates, alcohol;0,44190347
+RandomForestRegressor;residual sugar, free sulfur dioxide, density, pH, sulphates, alcohol;0,44185717
+RandomForestRegressor;citric acid, chlorides, total sulfur dioxide, sulphates, alcohol;0,441789949
+RandomForestRegressor;volatile acidity, citric acid, residual sugar, chlorides, density, sulphates;0,441740562
+RandomForestRegressor;fixed acidity, citric acid, free sulfur dioxide, pH, sulphates, alcohol;0,441621554
+RandomForestRegressor;volatile acidity, residual sugar, chlorides, free sulfur dioxide, density, sulphates;0,441617781
+RandomForestRegressor;citric acid, total sulfur dioxide, pH, sulphates, alcohol;0,441414747
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, chlorides, total sulfur dioxide, density, sulphates;0,441366046
+RandomForestRegressor;fixed acidity, total sulfur dioxide, pH, sulphates, alcohol;0,441341009
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, residual sugar, chlorides, density, pH, sulphates;0,441067324
+RandomForestRegressor;fixed acidity, volatile acidity, free sulfur dioxide, sulphates, alcohol;0,440946601
+RandomForestRegressor;volatile acidity, citric acid, residual sugar, free sulfur dioxide, density, pH, sulphates;0,44047434
+RandomForestRegressor;fixed acidity, citric acid, chlorides, free sulfur dioxide, total sulfur dioxide, density, pH, sulphates;0,440345728
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, sulphates, alcohol;0,440309717
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, chlorides, free sulfur dioxide, density, pH, sulphates;0,44017356
+RandomForestRegressor;volatile acidity, citric acid, free sulfur dioxide, total sulfur dioxide, density, pH, sulphates;0,440159842
+RandomForestRegressor;fixed acidity, volatile acidity, chlorides, density, sulphates, alcohol;0,440157784
+RandomForestRegressor;volatile acidity, free sulfur dioxide, density, pH, sulphates, alcohol;0,440115599
+RandomForestRegressor;citric acid, free sulfur dioxide, density, pH, sulphates, alcohol;0,44007513
+RandomForestRegressor;residual sugar, chlorides, total sulfur dioxide, sulphates, alcohol;0,439810705
+RandomForestRegressor;fixed acidity, citric acid, residual sugar, chlorides, total sulfur dioxide, sulphates, alcohol;0,439803159
+RandomForestRegressor;citric acid, residual sugar, total sulfur dioxide, sulphates, alcohol;0,439629277
+RandomForestRegressor;citric acid, chlorides, total sulfur dioxide, density, pH, sulphates, alcohol;0,439522615
+RandomForestRegressor;volatile acidity, citric acid, residual sugar, chlorides, free sulfur dioxide, density, pH, sulphates;0,439494835
+RandomForestRegressor;fixed acidity, volatile acidity, residual sugar, chlorides, free sulfur dioxide, density, sulphates;0,439319237
+RandomForestRegressor;fixed acidity, citric acid, residual sugar, chlorides, total sulfur dioxide, density, pH, sulphates;0,439306891
+RandomForestRegressor;fixed acidity, volatile acidity, chlorides, sulphates, alcohol;0,439190969
+RandomForestRegressor;fixed acidity, citric acid, free sulfur dioxide, total sulfur dioxide, sulphates, alcohol;0,439176564
+RandomForestRegressor;chlorides, free sulfur dioxide, density, pH, sulphates, alcohol;0,439127864
+RandomForestRegressor;fixed acidity, total sulfur dioxide, density, pH, sulphates, alcohol;0,439020859
+RandomForestRegressor;citric acid, residual sugar, chlorides, free sulfur dioxide, total sulfur dioxide, density, pH, sulphates;0,43899788
+RandomForestRegressor;fixed acidity, volatile acidity, residual sugar, chlorides, density, sulphates, alcohol;0,438519789
+RandomForestRegressor;citric acid, residual sugar, free sulfur dioxide, total sulfur dioxide, density, sulphates;0,4384193
+RandomForestRegressor;volatile acidity, citric acid, chlorides, sulphates, alcohol;0,438284858
+RandomForestRegressor;fixed acidity, free sulfur dioxide, total sulfur dioxide, density, sulphates, alcohol;0,438238215
+RandomForestRegressor;volatile acidity, residual sugar, chlorides, free sulfur dioxide, density, pH, sulphates;0,437898338
+RandomForestRegressor;volatile acidity, chlorides, density, sulphates, alcohol;0,437786189
+RandomForestRegressor;free sulfur dioxide, total sulfur dioxide, density, pH, sulphates, alcohol;0,437777272
+RandomForestRegressor;fixed acidity, volatile acidity, residual sugar, density, pH, sulphates, alcohol;0,437716224
+RandomForestRegressor;citric acid, total sulfur dioxide, density, pH, sulphates, alcohol;0,437625682
+RandomForestRegressor;citric acid, chlorides, free sulfur dioxide, density, pH, sulphates, alcohol;0,437621566
+RandomForestRegressor;fixed acidity, residual sugar, chlorides, total sulfur dioxide, sulphates, alcohol;0,437530681
+RandomForestRegressor;residual sugar, chlorides, free sulfur dioxide, pH, sulphates, alcohol;0,437447341
+RandomForestRegressor;volatile acidity, citric acid, residual sugar, sulphates, alcohol;0,437353368
+RandomForestRegressor;volatile acidity, residual sugar, free sulfur dioxide, total sulfur dioxide, density, pH, sulphates;0,437272772
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, density, sulphates, alcohol;0,437271743
+RandomForestRegressor;chlorides, free sulfur dioxide, total sulfur dioxide, sulphates, alcohol;0,43723779
+RandomForestRegressor;fixed acidity, free sulfur dioxide, density, pH, sulphates, alcohol;0,437167139
+RandomForestRegressor;chlorides, total sulfur dioxide, density, pH, sulphates, alcohol;0,437145875
+RandomForestRegressor;citric acid, residual sugar, chlorides, total sulfur dioxide, density, sulphates, alcohol;0,437118095
+RandomForestRegressor;fixed acidity, volatile acidity, residual sugar, free sulfur dioxide, total sulfur dioxide, density, sulphates;0,437085171
+RandomForestRegressor;citric acid, chlorides, free sulfur dioxide, total sulfur dioxide, density, sulphates;0,436846468
+RandomForestRegressor;volatile acidity, residual sugar, pH, sulphates, alcohol;0,436783363
+RandomForestRegressor;fixed acidity, citric acid, chlorides, density, pH, sulphates, alcohol;0,436728145
+RandomForestRegressor;citric acid, total sulfur dioxide, density, sulphates, alcohol;0,436691448
+RandomForestRegressor;residual sugar, free sulfur dioxide, pH, sulphates, alcohol;0,436569353
+RandomForestRegressor;fixed acidity, residual sugar, chlorides, free sulfur dioxide, sulphates, alcohol;0,436551176
+RandomForestRegressor;residual sugar, total sulfur dioxide, density, pH, sulphates, alcohol;0,436436626
+RandomForestRegressor;fixed acidity, volatile acidity, chlorides, free sulfur dioxide, total sulfur dioxide, density, pH, sulphates;0,436396499
+RandomForestRegressor;volatile acidity, citric acid, chlorides, total sulfur dioxide, density, pH, sulphates;0,436393756
+RandomForestRegressor;fixed acidity, free sulfur dioxide, total sulfur dioxide, sulphates, alcohol;0,436369405
+RandomForestRegressor;residual sugar, chlorides, free sulfur dioxide, total sulfur dioxide, density, sulphates, alcohol;0,435933155
+RandomForestRegressor;citric acid, residual sugar, total sulfur dioxide, pH, sulphates, alcohol;0,4358944
+RandomForestRegressor;citric acid, chlorides, total sulfur dioxide, density, sulphates, alcohol;0,435791854
+RandomForestRegressor;volatile acidity, citric acid, density, sulphates, alcohol;0,435595679
+RandomForestRegressor;citric acid, residual sugar, chlorides, total sulfur dioxide, density, pH, sulphates;0,435340857
+RandomForestRegressor;citric acid, chlorides, free sulfur dioxide, total sulfur dioxide, density, pH, sulphates;0,435336741
+RandomForestRegressor;volatile acidity, citric acid, free sulfur dioxide, total sulfur dioxide, density, sulphates;0,43523591
+RandomForestRegressor;fixed acidity, citric acid, chlorides, free sulfur dioxide, total sulfur dioxide, density, sulphates;0,435138851
+RandomForestRegressor;citric acid, residual sugar, free sulfur dioxide, total sulfur dioxide, density, pH, sulphates;0,435107641
+RandomForestRegressor;volatile acidity, residual sugar, density, sulphates, alcohol;0,434990347
+RandomForestRegressor;fixed acidity, volatile acidity, residual sugar, density, sulphates, alcohol;0,434948506
+RandomForestRegressor;fixed acidity, volatile acidity, residual sugar, total sulfur dioxide, density, pH, sulphates;0,434542094
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, chlorides, density, sulphates, alcohol;0,434456353
+RandomForestRegressor;citric acid, residual sugar, total sulfur dioxide, density, sulphates;0,433943965
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, total sulfur dioxide, density, sulphates;0,433609918
+RandomForestRegressor;fixed acidity, volatile acidity, residual sugar, chlorides, sulphates, alcohol;0,433594827
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, residual sugar, chlorides, density, sulphates, alcohol;0,433384934
+RandomForestRegressor;fixed acidity, citric acid, total sulfur dioxide, sulphates, alcohol;0,433112277
+RandomForestRegressor;fixed acidity, citric acid, residual sugar, chlorides, total sulfur dioxide, density, sulphates;0,432828646
+RandomForestRegressor;citric acid, free sulfur dioxide, density, sulphates, alcohol;0,43264276
+RandomForestRegressor;citric acid, free sulfur dioxide, pH, sulphates, alcohol;0,432628355
+RandomForestRegressor;residual sugar, free sulfur dioxide, total sulfur dioxide, sulphates, alcohol;0,432595774
+RandomForestRegressor;citric acid, residual sugar, chlorides, pH, sulphates, alcohol;0,432583427
+RandomForestRegressor;citric acid, chlorides, total sulfur dioxide, density, pH, sulphates;0,432431151
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, free sulfur dioxide, total sulfur dioxide, density, sulphates;0,432186275
+RandomForestRegressor;fixed acidity, volatile acidity, chlorides, total sulfur dioxide, density, sulphates;0,432177358
+RandomForestRegressor;fixed acidity, residual sugar, chlorides, free sulfur dioxide, total sulfur dioxide, density, pH, sulphates;0,432136888
+RandomForestRegressor;residual sugar, free sulfur dioxide, total sulfur dioxide, density, sulphates, alcohol;0,432012392
+RandomForestRegressor;fixed acidity, citric acid, chlorides, total sulfur dioxide, density, sulphates, alcohol;0,431925965
+RandomForestRegressor;residual sugar, chlorides, free sulfur dioxide, density, pH, sulphates, alcohol;0,431355959
+RandomForestRegressor;citric acid, residual sugar, chlorides, free sulfur dioxide, total sulfur dioxide, density, sulphates;0,431239352
+RandomForestRegressor;citric acid, free sulfur dioxide, total sulfur dioxide, density, sulphates;0,431139549
+RandomForestRegressor;fixed acidity, citric acid, residual sugar, chlorides, free sulfur dioxide, total sulfur dioxide, density, sulphates;0,431036317
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, residual sugar, free sulfur dioxide, density, pH, sulphates;0,430874781
+RandomForestRegressor;fixed acidity, citric acid, residual sugar, free sulfur dioxide, total sulfur dioxide, density, sulphates;0,430804473
+RandomForestRegressor;fixed acidity, citric acid, residual sugar, chlorides, free sulfur dioxide, sulphates, alcohol;0,430723877
+RandomForestRegressor;fixed acidity, citric acid, residual sugar, chlorides, pH, sulphates, alcohol;0,430674833
+RandomForestRegressor;citric acid, residual sugar, free sulfur dioxide, density, sulphates, alcohol;0,430518442
+RandomForestRegressor;fixed acidity, volatile acidity, residual sugar, total sulfur dioxide, density, sulphates;0,430287627
+RandomForestRegressor;fixed acidity, residual sugar, free sulfur dioxide, sulphates, alcohol;0,430218653
+RandomForestRegressor;fixed acidity, residual sugar, chlorides, total sulfur dioxide, density, pH, sulphates;0,429745401
+RandomForestRegressor;citric acid, residual sugar, total sulfur dioxide, density, sulphates, alcohol;0,429124979
+RandomForestRegressor;fixed acidity, residual sugar, total sulfur dioxide, density, sulphates, alcohol;0,429087253
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, free sulfur dioxide, total sulfur dioxide, density, pH, sulphates;0,428919201
+RandomForestRegressor;fixed acidity, citric acid, residual sugar, chlorides, density, pH, sulphates, alcohol;0,428856782
+RandomForestRegressor;volatile acidity, citric acid, residual sugar, density, pH, sulphates;0,428748748
+RandomForestRegressor;fixed acidity, citric acid, residual sugar, total sulfur dioxide, density, sulphates;0,428463059
+RandomForestRegressor;volatile acidity, citric acid, chlorides, free sulfur dioxide, density, sulphates;0,428375946
+RandomForestRegressor;fixed acidity, volatile acidity, residual sugar, chlorides, density, pH, sulphates;0,428229501
+RandomForestRegressor;residual sugar, chlorides, total sulfur dioxide, density, pH, sulphates;0,428113236
+RandomForestRegressor;citric acid, chlorides, free sulfur dioxide, sulphates, alcohol;0,427936952
+RandomForestRegressor;fixed acidity, volatile acidity, chlorides, free sulfur dioxide, density, pH, sulphates;0,427885851
+RandomForestRegressor;fixed acidity, volatile acidity, density, sulphates, alcohol;0,427821031
+RandomForestRegressor;volatile acidity, citric acid, residual sugar, chlorides, density, pH, sulphates;0,427789821
+RandomForestRegressor;volatile acidity, citric acid, chlorides, free sulfur dioxide, density, pH, sulphates;0,427714369
+RandomForestRegressor;volatile acidity, citric acid, residual sugar, density, sulphates;0,42767973
+RandomForestRegressor;fixed acidity, volatile acidity, chlorides, total sulfur dioxide, density, pH, sulphates;0,427664639
+RandomForestRegressor;fixed acidity, chlorides, total sulfur dioxide, density, sulphates, alcohol;0,427541858
+RandomForestRegressor;citric acid, free sulfur dioxide, total sulfur dioxide, density, pH, sulphates;0,427400214
+RandomForestRegressor;fixed acidity, citric acid, pH, sulphates, alcohol;0,4273083
+RandomForestRegressor;volatile acidity, chlorides, total sulfur dioxide, density, sulphates;0,427202324
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, chlorides, free sulfur dioxide, density, sulphates;0,427006834
+RandomForestRegressor;fixed acidity, residual sugar, free sulfur dioxide, density, sulphates, alcohol;0,426849757
+RandomForestRegressor;volatile acidity, residual sugar, free sulfur dioxide, density, pH, sulphates;0,426621686
+RandomForestRegressor;fixed acidity, volatile acidity, free sulfur dioxide, total sulfur dioxide, density, pH, sulphates;0,426566812
+RandomForestRegressor;fixed acidity, volatile acidity, residual sugar, free sulfur dioxide, density, sulphates;0,426481757
+RandomForestRegressor;fixed acidity, chlorides, free sulfur dioxide, density, pH, sulphates, alcohol;0,426236195
+RandomForestRegressor;citric acid, residual sugar, total sulfur dioxide, density, pH, sulphates;0,426083919
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, residual sugar, density, sulphates;0,426078774
+RandomForestRegressor;fixed acidity, citric acid, chlorides, free sulfur dioxide, density, sulphates, alcohol;0,425805432
+RandomForestRegressor;citric acid, residual sugar, chlorides, free sulfur dioxide, density, sulphates, alcohol;0,425711117
+RandomForestRegressor;citric acid, residual sugar, density, pH, sulphates, alcohol;0,425654871
+RandomForestRegressor;fixed acidity, chlorides, free sulfur dioxide, sulphates, alcohol;0,425592794
+RandomForestRegressor;citric acid, chlorides, free sulfur dioxide, density, sulphates, alcohol;0,425575646
+RandomForestRegressor;fixed acidity, volatile acidity, residual sugar, chlorides, free sulfur dioxide, total sulfur dioxide, pH, sulphates;0,425414796
+RandomForestRegressor;volatile acidity, chlorides, free sulfur dioxide, total sulfur dioxide, density, sulphates;0,425330427
+RandomForestRegressor;volatile acidity, citric acid, residual sugar, chlorides, sulphates, alcohol;0,424875657
+RandomForestRegressor;citric acid, total sulfur dioxide, density, pH, sulphates;0,424848906
+RandomForestRegressor;fixed acidity, citric acid, chlorides, pH, sulphates, alcohol;0,424773797
+RandomForestRegressor;citric acid, residual sugar, pH, sulphates, alcohol;0,42474876
+RandomForestRegressor;fixed acidity, residual sugar, chlorides, free sulfur dioxide, density, sulphates, alcohol;0,424372529
+RandomForestRegressor;fixed acidity, volatile acidity, total sulfur dioxide, density, pH, sulphates;0,424368756
+RandomForestRegressor;fixed acidity, volatile acidity, residual sugar, chlorides, free sulfur dioxide, density, pH, sulphates;0,424263809
+RandomForestRegressor;fixed acidity, chlorides, pH, sulphates, alcohol;0,424166408
+RandomForestRegressor;citric acid, density, pH, sulphates, alcohol;0,42403471
+RandomForestRegressor;fixed acidity, chlorides, total sulfur dioxide, sulphates, alcohol;0,423898896
+RandomForestRegressor;citric acid, residual sugar, chlorides, density, pH, sulphates, alcohol;0,423868029
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, total sulfur dioxide, density, pH, sulphates;0,423742847
+RandomForestRegressor;residual sugar, chlorides, density, pH, sulphates, alcohol;0,423720555
+RandomForestRegressor;fixed acidity, volatile acidity, residual sugar, chlorides, density, sulphates;0,423480137
+RandomForestRegressor;volatile acidity, residual sugar, chlorides, density, sulphates, alcohol;0,42346196
+RandomForestRegressor;volatile acidity, residual sugar, chlorides, sulphates, alcohol;0,423388909
+RandomForestRegressor;fixed acidity, total sulfur dioxide, density, sulphates, alcohol;0,423132372
+RandomForestRegressor;volatile acidity, residual sugar, total sulfur dioxide, density, pH, sulphates;0,422993814
+RandomForestRegressor;fixed acidity, residual sugar, chlorides, pH, sulphates, alcohol;0,422849426
+RandomForestRegressor;total sulfur dioxide, density, pH, sulphates, alcohol;0,422731104
+RandomForestRegressor;fixed acidity, citric acid, chlorides, total sulfur dioxide, density, pH, sulphates;0,422665941
+RandomForestRegressor;fixed acidity, residual sugar, chlorides, total sulfur dioxide, density, sulphates, alcohol;0,422140177
+RandomForestRegressor;volatile acidity, chlorides, total sulfur dioxide, density, pH, sulphates;0,422065068
+RandomForestRegressor;volatile acidity, residual sugar, density, pH, sulphates;0,421952576
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, residual sugar, total sulfur dioxide, pH, sulphates;0,421893929
+RandomForestRegressor;volatile acidity, residual sugar, chlorides, density, pH, sulphates;0,421494376
+RandomForestRegressor;fixed acidity, citric acid, residual sugar, pH, sulphates, alcohol;0,421411379
+RandomForestRegressor;fixed acidity, citric acid, residual sugar, total sulfur dioxide, density, pH, sulphates;0,421407606
+RandomForestRegressor;free sulfur dioxide, density, pH, sulphates, alcohol;0,42132358
+RandomForestRegressor;volatile acidity, total sulfur dioxide, density, pH, sulphates;0,421308147
+RandomForestRegressor;residual sugar, chlorides, pH, sulphates, alcohol;0,42123098
+RandomForestRegressor;fixed acidity, citric acid, free sulfur dioxide, total sulfur dioxide, density, sulphates;0,420727509
+RandomForestRegressor;fixed acidity, citric acid, free sulfur dioxide, total sulfur dioxide, density, pH, sulphates;0,420668176
+RandomForestRegressor;citric acid, chlorides, pH, sulphates, alcohol;0,420597183
+RandomForestRegressor;fixed acidity, citric acid, residual sugar, free sulfur dioxide, density, pH, sulphates;0,420524474
+RandomForestRegressor;citric acid, chlorides, density, pH, sulphates, alcohol;0,419892049
+RandomForestRegressor;fixed acidity, volatile acidity, chlorides, free sulfur dioxide, density, sulphates;0,419880731
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, chlorides, density, pH, sulphates;0,418933808
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, residual sugar, density, pH, sulphates;0,418861443
+RandomForestRegressor;volatile acidity, residual sugar, free sulfur dioxide, density, sulphates;0,418328477
+RandomForestRegressor;residual sugar, chlorides, free sulfur dioxide, total sulfur dioxide, density, pH, sulphates;0,418091489
+RandomForestRegressor;residual sugar, chlorides, total sulfur dioxide, density, sulphates, alcohol;0,417523884
+RandomForestRegressor;fixed acidity, chlorides, density, pH, sulphates, alcohol;0,41745289
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, density, sulphates;0,41740316
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, residual sugar, free sulfur dioxide, total sulfur dioxide, sulphates;0,41732325
+RandomForestRegressor;fixed acidity, residual sugar, pH, sulphates, alcohol;0,417180577
+RandomForestRegressor;chlorides, free sulfur dioxide, total sulfur dioxide, density, sulphates, alcohol;0,417031387
+RandomForestRegressor;volatile acidity, citric acid, total sulfur dioxide, density, pH, sulphates;0,416771764
+RandomForestRegressor;volatile acidity, citric acid, free sulfur dioxide, density, pH, sulphates;0,416634235
+RandomForestRegressor;fixed acidity, chlorides, free sulfur dioxide, total sulfur dioxide, density, pH, sulphates;0,41641954
+RandomForestRegressor;residual sugar, free sulfur dioxide, total sulfur dioxide, density, pH, sulphates;0,415996665
+RandomForestRegressor;fixed acidity, volatile acidity, free sulfur dioxide, total sulfur dioxide, density, sulphates;0,415981575
+RandomForestRegressor;free sulfur dioxide, total sulfur dioxide, density, sulphates, alcohol;0,415905437
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, residual sugar, chlorides, total sulfur dioxide, sulphates;0,415841989
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, free sulfur dioxide, density, pH, sulphates;0,415714406
+RandomForestRegressor;fixed acidity, residual sugar, chlorides, free sulfur dioxide, total sulfur dioxide, density, sulphates;0,415698287
+RandomForestRegressor;volatile acidity, chlorides, free sulfur dioxide, density, pH, sulphates;0,415591282
+RandomForestRegressor;fixed acidity, citric acid, density, pH, sulphates, alcohol;0,415563159
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, free sulfur dioxide, density, sulphates;0,415550469
+RandomForestRegressor;volatile acidity, citric acid, residual sugar, chlorides, free sulfur dioxide, total sulfur dioxide, pH, sulphates;0,415311424
+RandomForestRegressor;volatile acidity, citric acid, total sulfur dioxide, density, sulphates;0,415080266
+RandomForestRegressor;volatile acidity, citric acid, chlorides, density, sulphates;0,414990752
+RandomForestRegressor;fixed acidity, citric acid, residual sugar, density, pH, sulphates, alcohol;0,414984922
+RandomForestRegressor;fixed acidity, volatile acidity, residual sugar, free sulfur dioxide, total sulfur dioxide, sulphates;0,414899181
+RandomForestRegressor;fixed acidity, citric acid, residual sugar, chlorides, free sulfur dioxide, density, pH, sulphates;0,414869
+RandomForestRegressor;fixed acidity, citric acid, chlorides, total sulfur dioxide, density, sulphates;0,414741075
+RandomForestRegressor;fixed acidity, residual sugar, density, pH, sulphates, alcohol;0,414535982
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, residual sugar, free sulfur dioxide, density, pH, alcohol;0,413998901
+RandomForestRegressor;fixed acidity, citric acid, residual sugar, chlorides, free sulfur dioxide, density, sulphates;0,413732075
+RandomForestRegressor;volatile acidity, citric acid, chlorides, density, pH, sulphates;0,413718699
+RandomForestRegressor;residual sugar, total sulfur dioxide, density, pH, sulphates;0,41364119
+RandomForestRegressor;volatile acidity, citric acid, free sulfur dioxide, density, sulphates;0,413409689
+RandomForestRegressor;fixed acidity, volatile acidity, residual sugar, sulphates, alcohol;0,413145264
+RandomForestRegressor;fixed acidity, volatile acidity, residual sugar, chlorides, free sulfur dioxide, total sulfur dioxide, sulphates;0,413103079
+RandomForestRegressor;fixed acidity, chlorides, free sulfur dioxide, density, sulphates, alcohol;0,412915478
+RandomForestRegressor;volatile acidity, citric acid, residual sugar, free sulfur dioxide, total sulfur dioxide, pH, sulphates;0,412816018
+RandomForestRegressor;fixed acidity, volatile acidity, residual sugar, density, sulphates;0,412815333
+RandomForestRegressor;fixed acidity, volatile acidity, total sulfur dioxide, density, sulphates;0,412694952
+RandomForestRegressor;fixed acidity, residual sugar, total sulfur dioxide, density, pH, sulphates;0,412602009
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, density, pH, sulphates;0,41244013
+RandomForestRegressor;fixed acidity, volatile acidity, residual sugar, free sulfur dioxide, density, pH, sulphates;0,412052581
+RandomForestRegressor;fixed acidity, citric acid, residual sugar, density, sulphates, alcohol;0,411767921
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, residual sugar, chlorides, free sulfur dioxide, total sulfur dioxide, pH, sulphates;0,411654743
+RandomForestRegressor;residual sugar, density, pH, sulphates, alcohol;0,411319324
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, residual sugar, free sulfur dioxide, density, alcohol;0,410942407
+RandomForestRegressor;citric acid, residual sugar, chlorides, total sulfur dioxide, density, sulphates;0,410762694
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, residual sugar, free sulfur dioxide, total sulfur dioxide, density, pH, alcohol;0,410748975
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, chlorides, density, sulphates;0,410686213
+RandomForestRegressor;volatile acidity, citric acid, residual sugar, chlorides, free sulfur dioxide, total sulfur dioxide, sulphates;0,409872017
+RandomForestRegressor;chlorides, free sulfur dioxide, total sulfur dioxide, density, pH, sulphates;0,409614451
+RandomForestRegressor;fixed acidity, volatile acidity, residual sugar, chlorides, total sulfur dioxide, pH, sulphates;0,409493042
+RandomForestRegressor;fixed acidity, residual sugar, free sulfur dioxide, total sulfur dioxide, density, pH, sulphates;0,409206324
+RandomForestRegressor;fixed acidity, volatile acidity, free sulfur dioxide, density, sulphates;0,408959047
+RandomForestRegressor;citric acid, residual sugar, chlorides, free sulfur dioxide, density, pH, sulphates;0,408836952
+RandomForestRegressor;fixed acidity, citric acid, chlorides, free sulfur dioxide, density, sulphates;0,408808829
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, residual sugar, chlorides, free sulfur dioxide, total sulfur dioxide, sulphates;0,408781392
+RandomForestRegressor;residual sugar, chlorides, free sulfur dioxide, sulphates, alcohol;0,408626715
+RandomForestRegressor;fixed acidity, residual sugar, chlorides, free sulfur dioxide, density, pH, sulphates;0,408483356
+RandomForestRegressor;volatile acidity, residual sugar, chlorides, free sulfur dioxide, total sulfur dioxide, pH, sulphates;0,408134905
+RandomForestRegressor;fixed acidity, density, pH, sulphates, alcohol;0,408060481
+RandomForestRegressor;fixed acidity, citric acid, chlorides, free sulfur dioxide, density, pH, sulphates;0,407891743
+RandomForestRegressor;volatile acidity, citric acid, residual sugar, free sulfur dioxide, total sulfur dioxide, density, alcohol;0,407883169
+RandomForestRegressor;volatile acidity, chlorides, free sulfur dioxide, density, sulphates;0,407775478
+RandomForestRegressor;chlorides, density, pH, sulphates, alcohol;0,407732265
+RandomForestRegressor;volatile acidity, residual sugar, free sulfur dioxide, total sulfur dioxide, pH, sulphates;0,40757896
+RandomForestRegressor;volatile acidity, citric acid, residual sugar, total sulfur dioxide, density, pH, alcohol;0,40757313
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, residual sugar, free sulfur dioxide, total sulfur dioxide, density, alcohol;0,40747367
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, free sulfur dioxide, alcohol;0,407460638
+RandomForestRegressor;fixed acidity, free sulfur dioxide, density, sulphates, alcohol;0,407398218
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, residual sugar, free sulfur dioxide, total sulfur dioxide, pH, sulphates;0,407275437
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, residual sugar, free sulfur dioxide, alcohol;0,407248
+RandomForestRegressor;volatile acidity, free sulfur dioxide, total sulfur dioxide, density, pH, sulphates;0,407017871
+RandomForestRegressor;fixed acidity, volatile acidity, residual sugar, density, pH, sulphates;0,406937275
+RandomForestRegressor;fixed acidity, citric acid, total sulfur dioxide, density, pH, sulphates;0,406799403
+RandomForestRegressor;fixed acidity, chlorides, total sulfur dioxide, density, pH, sulphates;0,40665673
+RandomForestRegressor;volatile acidity, free sulfur dioxide, total sulfur dioxide, density, sulphates;0,406267809
+RandomForestRegressor;fixed acidity, volatile acidity, residual sugar, total sulfur dioxide, pH, sulphates;0,406244145
+RandomForestRegressor;volatile acidity, citric acid, residual sugar, free sulfur dioxide, total sulfur dioxide, density, pH, alcohol;0,406029792
+RandomForestRegressor;fixed acidity, citric acid, residual sugar, free sulfur dioxide, density, sulphates;0,405997554
+RandomForestRegressor;volatile acidity, citric acid, residual sugar, free sulfur dioxide, total sulfur dioxide, pH, alcohol;0,405957427
+RandomForestRegressor;citric acid, chlorides, free sulfur dioxide, density, pH, sulphates;0,405926217
+RandomForestRegressor;citric acid, free sulfur dioxide, density, pH, sulphates;0,405687857
+RandomForestRegressor;volatile acidity, citric acid, residual sugar, chlorides, total sulfur dioxide, sulphates;0,405393594
+RandomForestRegressor;fixed acidity, citric acid, residual sugar, chlorides, density, sulphates, alcohol;0,405217997
+RandomForestRegressor;fixed acidity, residual sugar, chlorides, total sulfur dioxide, density, sulphates;0,405094187
+RandomForestRegressor;fixed acidity, residual sugar, chlorides, density, pH, sulphates, alcohol;0,40470115
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, residual sugar, total sulfur dioxide, density, alcohol;0,404617124
+RandomForestRegressor;fixed acidity, citric acid, residual sugar, chlorides, sulphates, alcohol;0,404410317
+RandomForestRegressor;volatile acidity, residual sugar, chlorides, free sulfur dioxide, total sulfur dioxide, sulphates;0,404307085
+RandomForestRegressor;volatile acidity, citric acid, residual sugar, free sulfur dioxide, density, alcohol;0,404225802
+RandomForestRegressor;fixed acidity, residual sugar, chlorides, free sulfur dioxide, density, sulphates;0,404112967
+RandomForestRegressor;fixed acidity, citric acid, residual sugar, free sulfur dioxide, total sulfur dioxide, sulphates;0,403882839
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, residual sugar, free sulfur dioxide, total sulfur dioxide, alcohol;0,403827964
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, residual sugar, free sulfur dioxide, total sulfur dioxide, pH, alcohol;0,403487744
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, chlorides, total sulfur dioxide, density, pH, alcohol;0,403440072
+RandomForestRegressor;fixed acidity, volatile acidity, residual sugar, free sulfur dioxide, total sulfur dioxide, pH, alcohol;0,403320721
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, residual sugar, total sulfur dioxide, sulphates;0,403313862
+RandomForestRegressor;citric acid, residual sugar, free sulfur dioxide, density, pH, sulphates;0,403207543
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, residual sugar, chlorides, total sulfur dioxide, pH, sulphates;0,403178048
+RandomForestRegressor;fixed acidity, citric acid, residual sugar, chlorides, density, pH, sulphates;0,402806618
+RandomForestRegressor;citric acid, residual sugar, free sulfur dioxide, density, sulphates;0,402158416
+RandomForestRegressor;volatile acidity, citric acid, density, pH, sulphates;0,402091881
+RandomForestRegressor;fixed acidity, citric acid, free sulfur dioxide, density, pH, sulphates;0,401782185
+RandomForestRegressor;residual sugar, total sulfur dioxide, density, sulphates, alcohol;0,401640541
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, free sulfur dioxide, total sulfur dioxide, pH, sulphates;0,401461171
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, free sulfur dioxide, total sulfur dioxide, density, alcohol;0,401263966
+RandomForestRegressor;fixed acidity, volatile acidity, residual sugar, free sulfur dioxide, total sulfur dioxide, density, pH, alcohol;0,401076708
+RandomForestRegressor;residual sugar, free sulfur dioxide, density, sulphates, alcohol;0,400902483
+RandomForestRegressor;fixed acidity, volatile acidity, free sulfur dioxide, density, pH, sulphates;0,400740947
+RandomForestRegressor;fixed acidity, volatile acidity, chlorides, density, pH, sulphates;0,400722084
+RandomForestRegressor;fixed acidity, citric acid, total sulfur dioxide, density, sulphates;0,400633599
+RandomForestRegressor;citric acid, residual sugar, chlorides, density, pH, sulphates;0,399860215
+RandomForestRegressor;citric acid, residual sugar, density, sulphates, alcohol;0,399808949
+RandomForestRegressor;fixed acidity, citric acid, free sulfur dioxide, density, sulphates;0,399409218
+RandomForestRegressor;fixed acidity, residual sugar, free sulfur dioxide, total sulfur dioxide, density, sulphates;0,399263458
+RandomForestRegressor;fixed acidity, volatile acidity, residual sugar, chlorides, free sulfur dioxide, total sulfur dioxide, pH, alcohol;0,399257285
+RandomForestRegressor;citric acid, chlorides, density, sulphates, alcohol;0,399032618
+RandomForestRegressor;citric acid, residual sugar, chlorides, density, sulphates;0,399024695
+RandomForestRegressor;fixed acidity, volatile acidity, residual sugar, chlorides, free sulfur dioxide, total sulfur dioxide, density, pH, alcohol;0,398749012
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, residual sugar, free sulfur dioxide, pH, alcohol;0,3986643
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, free sulfur dioxide, total sulfur dioxide, alcohol;0,398662243
+RandomForestRegressor;volatile acidity, residual sugar, chlorides, density, sulphates;0,398637892
+RandomForestRegressor;fixed acidity, volatile acidity, chlorides, free sulfur dioxide, total sulfur dioxide, sulphates;0,398361463
+RandomForestRegressor;fixed acidity, volatile acidity, residual sugar, free sulfur dioxide, total sulfur dioxide, density, alcohol;0,398247942
+RandomForestRegressor;fixed acidity, volatile acidity, residual sugar, total sulfur dioxide, density, pH, alcohol;0,398097724
+RandomForestRegressor;chlorides, total sulfur dioxide, density, sulphates, alcohol;0,397942361
+RandomForestRegressor;citric acid, residual sugar, chlorides, free sulfur dioxide, density, sulphates;0,397927957
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, chlorides, free sulfur dioxide, density, pH, alcohol;0,397841873
+RandomForestRegressor;fixed acidity, citric acid, residual sugar, chlorides, free sulfur dioxide, total sulfur dioxide, pH, sulphates;0,397737269
+RandomForestRegressor;fixed acidity, volatile acidity, chlorides, total sulfur dioxide, density, pH, alcohol;0,397620318
+RandomForestRegressor;fixed acidity, citric acid, residual sugar, density, pH, sulphates;0,397614488
+RandomForestRegressor;free sulfur dioxide, total sulfur dioxide, density, pH, sulphates;0,397524974
+RandomForestRegressor;fixed acidity, volatile acidity, residual sugar, free sulfur dioxide, total sulfur dioxide, pH, sulphates;0,397421056
+RandomForestRegressor;fixed acidity, chlorides, total sulfur dioxide, density, sulphates;0,397291073
+RandomForestRegressor;volatile acidity, citric acid, residual sugar, chlorides, free sulfur dioxide, density, alcohol;0,397263636
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, residual sugar, chlorides, free sulfur dioxide, total sulfur dioxide, pH, alcohol;0,397236885
+RandomForestRegressor;citric acid, chlorides, total sulfur dioxide, density, sulphates;0,397226596
+RandomForestRegressor;residual sugar, chlorides, free sulfur dioxide, density, sulphates, alcohol;0,397084952
+RandomForestRegressor;volatile acidity, residual sugar, chlorides, total sulfur dioxide, pH, sulphates;0,397058201
+RandomForestRegressor;volatile acidity, residual sugar, free sulfur dioxide, total sulfur dioxide, sulphates;0,396842133
+RandomForestRegressor;chlorides, free sulfur dioxide, density, sulphates, alcohol;0,396438808
+RandomForestRegressor;fixed acidity, citric acid, density, sulphates, alcohol;0,396417544
+RandomForestRegressor;fixed acidity, chlorides, free sulfur dioxide, density, pH, sulphates;0,396293048
+RandomForestRegressor;volatile acidity, citric acid, total sulfur dioxide, density, pH, alcohol;0,396084183
+RandomForestRegressor;volatile acidity, citric acid, residual sugar, chlorides, total sulfur dioxide, pH, sulphates;0,396057432
+RandomForestRegressor;volatile acidity, free sulfur dioxide, density, pH, sulphates;0,395999471
+RandomForestRegressor;fixed acidity, volatile acidity, chlorides, density, sulphates;0,395782375
+RandomForestRegressor;fixed acidity, citric acid, residual sugar, sulphates, alcohol;0,395587319
+RandomForestRegressor;citric acid, residual sugar, chlorides, sulphates, alcohol;0,395528911
+RandomForestRegressor;fixed acidity, residual sugar, density, sulphates, alcohol;0,395269987
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, chlorides, free sulfur dioxide, total sulfur dioxide, sulphates;0,395253182
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, chlorides, total sulfur dioxide, pH, sulphates;0,394968522
+RandomForestRegressor;volatile acidity, citric acid, residual sugar, total sulfur dioxide, density, alcohol;0,394838538
+RandomForestRegressor;volatile acidity, citric acid, residual sugar, free sulfur dioxide, alcohol;0,394788466
+RandomForestRegressor;fixed acidity, citric acid, residual sugar, free sulfur dioxide, total sulfur dioxide, pH, sulphates;0,394744566
+RandomForestRegressor;volatile acidity, citric acid, residual sugar, free sulfur dioxide, density, pH, alcohol;0,394503463
+RandomForestRegressor;volatile acidity, citric acid, free sulfur dioxide, density, alcohol;0,394361819
+RandomForestRegressor;fixed acidity, chlorides, free sulfur dioxide, total sulfur dioxide, density, sulphates;0,394084361
+RandomForestRegressor;volatile acidity, residual sugar, free sulfur dioxide, total sulfur dioxide, density, pH, alcohol;0,394070985
+RandomForestRegressor;volatile acidity, citric acid, residual sugar, chlorides, free sulfur dioxide, density, pH, alcohol;0,393953349
+RandomForestRegressor;fixed acidity, volatile acidity, chlorides, free sulfur dioxide, total sulfur dioxide, pH, sulphates;0,393758888
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, chlorides, free sulfur dioxide, total sulfur dioxide, density, alcohol;0,393665602
+RandomForestRegressor;fixed acidity, residual sugar, chlorides, sulphates, alcohol;0,39344782
+RandomForestRegressor;fixed acidity, volatile acidity, chlorides, total sulfur dioxide, pH, sulphates;0,393426899
+RandomForestRegressor;fixed acidity, volatile acidity, residual sugar, free sulfur dioxide, density, alcohol;0,393262276
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, chlorides, free sulfur dioxide, total sulfur dioxide, pH, sulphates;0,39296767
+RandomForestRegressor;fixed acidity, free sulfur dioxide, total sulfur dioxide, density, pH, sulphates;0,392935089
+RandomForestRegressor;volatile acidity, citric acid, residual sugar, chlorides, free sulfur dioxide, total sulfur dioxide, density, pH, alcohol;0,392922399
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, residual sugar, total sulfur dioxide, alcohol;0,392857579
+RandomForestRegressor;residual sugar, chlorides, free sulfur dioxide, density, pH, sulphates;0,39254411
+RandomForestRegressor;chlorides, total sulfur dioxide, density, pH, sulphates;0,392526276
+RandomForestRegressor;fixed acidity, volatile acidity, residual sugar, chlorides, total sulfur dioxide, sulphates;0,39240178
+RandomForestRegressor;citric acid, chlorides, free sulfur dioxide, total sulfur dioxide, pH, sulphates;0,392321184
+RandomForestRegressor;volatile acidity, citric acid, chlorides, free sulfur dioxide, total sulfur dioxide, pH, sulphates;0,39210786
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, residual sugar, chlorides, total sulfur dioxide, pH, alcohol;0,392054015
+RandomForestRegressor;fixed acidity, residual sugar, chlorides, density, pH, sulphates;0,392027949
+RandomForestRegressor;volatile acidity, citric acid, chlorides, density, pH, alcohol;0,391984393
+RandomForestRegressor;citric acid, chlorides, free sulfur dioxide, density, sulphates;0,391866414
+RandomForestRegressor;volatile acidity, citric acid, chlorides, total sulfur dioxide, pH, sulphates;0,391807081
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, residual sugar, chlorides, free sulfur dioxide, density, pH, alcohol;0,391788218
+RandomForestRegressor;volatile acidity, citric acid, residual sugar, total sulfur dioxide, pH, sulphates;0,391499785
+RandomForestRegressor;fixed acidity, citric acid, chlorides, free sulfur dioxide, total sulfur dioxide, sulphates;0,391317328
+RandomForestRegressor;volatile acidity, citric acid, free sulfur dioxide, total sulfur dioxide, density, pH, alcohol;0,39128749
+RandomForestRegressor;citric acid, residual sugar, chlorides, total sulfur dioxide, pH, sulphates;0,39125388
+RandomForestRegressor;volatile acidity, citric acid, residual sugar, free sulfur dioxide, total sulfur dioxide, alcohol;0,39117054
+RandomForestRegressor;volatile acidity, citric acid, chlorides, free sulfur dioxide, total sulfur dioxide, sulphates;0,391129041
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, residual sugar, chlorides, free sulfur dioxide, sulphates;0,391037127
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, chlorides, free sulfur dioxide, density, alcohol;0,39093218
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, residual sugar, chlorides, total sulfur dioxide, alcohol;0,390926007
+RandomForestRegressor;fixed acidity, residual sugar, total sulfur dioxide, density, sulphates;0,390769958
+RandomForestRegressor;fixed acidity, volatile acidity, free sulfur dioxide, total sulfur dioxide, pH, sulphates;0,39057001
+RandomForestRegressor;fixed acidity, volatile acidity, residual sugar, free sulfur dioxide, total sulfur dioxide, alcohol;0,390552519
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, free sulfur dioxide, density, alcohol;0,390444142
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, free sulfur dioxide, total sulfur dioxide, sulphates;0,390373149
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, residual sugar, free sulfur dioxide, pH, sulphates;0,390339538
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, chlorides, free sulfur dioxide, total sulfur dioxide, pH, alcohol;0,390261
+RandomForestRegressor;citric acid, residual sugar, chlorides, density, sulphates, alcohol;0,389928325
+RandomForestRegressor;fixed acidity, citric acid, chlorides, sulphates, alcohol;0,389616228
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, chlorides, free sulfur dioxide, total sulfur dioxide, density, pH, alcohol;0,389469096
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, chlorides, total sulfur dioxide, density, alcohol;0,389072973
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, residual sugar, chlorides, free sulfur dioxide, total sulfur dioxide, density, pH, alcohol;0,38902873
+RandomForestRegressor;volatile acidity, citric acid, residual sugar, free sulfur dioxide, pH, alcohol;0,388933729
+RandomForestRegressor;volatile acidity, citric acid, chlorides, total sulfur dioxide, density, pH, alcohol;0,388919325
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, free sulfur dioxide, density, pH, alcohol;0,388864108
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, residual sugar, chlorides, free sulfur dioxide, total sulfur dioxide, alcohol;0,388855877
+RandomForestRegressor;fixed acidity, citric acid, residual sugar, free sulfur dioxide, total sulfur dioxide, density, pH, alcohol;0,388751959
+RandomForestRegressor;volatile acidity, residual sugar, total sulfur dioxide, pH, sulphates;0,388675478
+RandomForestRegressor;volatile acidity, chlorides, free sulfur dioxide, total sulfur dioxide, pH, sulphates;0,388661073
+RandomForestRegressor;fixed acidity, citric acid, residual sugar, chlorides, total sulfur dioxide, pH, sulphates;0,388435403
+RandomForestRegressor;volatile acidity, citric acid, residual sugar, chlorides, pH, alcohol;0,388337315
+RandomForestRegressor;volatile acidity, citric acid, free sulfur dioxide, total sulfur dioxide, density, alcohol;0,388027619
+RandomForestRegressor;volatile acidity, citric acid, chlorides, free sulfur dioxide, total sulfur dioxide, density, pH, alcohol;0,387889062
+RandomForestRegressor;fixed acidity, citric acid, residual sugar, total sulfur dioxide, pH, sulphates;0,387793032
+RandomForestRegressor;volatile acidity, citric acid, residual sugar, chlorides, total sulfur dioxide, density, pH, alcohol;0,387647958
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, residual sugar, total sulfur dioxide, density, pH, alcohol;0,387593084
+RandomForestRegressor;fixed acidity, citric acid, chlorides, density, sulphates, alcohol;0,387545755
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, residual sugar, chlorides, total sulfur dioxide, density, pH, alcohol;0,387440465
+RandomForestRegressor;citric acid, chlorides, free sulfur dioxide, total sulfur dioxide, sulphates;0,387279272
+RandomForestRegressor;fixed acidity, citric acid, chlorides, free sulfur dioxide, total sulfur dioxide, pH, sulphates;0,387198332
+RandomForestRegressor;fixed acidity, volatile acidity, residual sugar, free sulfur dioxide, density, pH, alcohol;0,387165065
+RandomForestRegressor;fixed acidity, residual sugar, free sulfur dioxide, density, pH, sulphates;0,386977121
+RandomForestRegressor;fixed acidity, chlorides, free sulfur dioxide, total sulfur dioxide, pH, sulphates;0,386918474
+RandomForestRegressor;citric acid, residual sugar, chlorides, free sulfur dioxide, total sulfur dioxide, sulphates;0,386868744
+RandomForestRegressor;fixed acidity, citric acid, free sulfur dioxide, total sulfur dioxide, pH, sulphates;0,38678609
+RandomForestRegressor;fixed acidity, residual sugar, density, pH, sulphates;0,386709952
+RandomForestRegressor;fixed acidity, volatile acidity, chlorides, free sulfur dioxide, total sulfur dioxide, density, pH, alcohol;0,386693832
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, residual sugar, chlorides, free sulfur dioxide, alcohol;0,386652677
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, residual sugar, chlorides, free sulfur dioxide, pH, alcohol;0,386607749
+RandomForestRegressor;citric acid, residual sugar, density, pH, sulphates;0,386511719
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, total sulfur dioxide, pH, sulphates;0,386256554
+RandomForestRegressor;residual sugar, chlorides, density, sulphates, alcohol;0,386252011
+RandomForestRegressor;citric acid, residual sugar, chlorides, free sulfur dioxide, total sulfur dioxide, pH, sulphates;0,385893698
+RandomForestRegressor;fixed acidity, volatile acidity, residual sugar, total sulfur dioxide, sulphates;0,385668028
+RandomForestRegressor;chlorides, free sulfur dioxide, density, pH, sulphates;0,385289052
+RandomForestRegressor;volatile acidity, residual sugar, free sulfur dioxide, total sulfur dioxide, pH, alcohol;0,385247211
+RandomForestRegressor;chlorides, free sulfur dioxide, total sulfur dioxide, density, sulphates;0,385243095
+RandomForestRegressor;volatile acidity, residual sugar, chlorides, total sulfur dioxide, density, pH, alcohol;0,385137119
+RandomForestRegressor;fixed acidity, residual sugar, chlorides, density, sulphates;0,384862062
+RandomForestRegressor;fixed acidity, volatile acidity, residual sugar, free sulfur dioxide, sulphates;0,384813019
+RandomForestRegressor;fixed acidity, citric acid, free sulfur dioxide, total sulfur dioxide, sulphates;0,384689895
+RandomForestRegressor;fixed acidity, citric acid, residual sugar, chlorides, free sulfur dioxide, total sulfur dioxide, sulphates;0,384654912
+RandomForestRegressor;volatile acidity, citric acid, residual sugar, chlorides, free sulfur dioxide, total sulfur dioxide, density, alcohol;0,384631248
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, residual sugar, total sulfur dioxide, pH, alcohol;0,38447417
+RandomForestRegressor;volatile acidity, free sulfur dioxide, total sulfur dioxide, density, pH, alcohol;0,38445908
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, chlorides, free sulfur dioxide, pH, alcohol;0,384418953
+RandomForestRegressor;fixed acidity, citric acid, residual sugar, chlorides, density, sulphates;0,384411751
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, chlorides, total sulfur dioxide, sulphates;0,384252273
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, free sulfur dioxide, total sulfur dioxide, density, pH, alcohol;0,384057812
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, total sulfur dioxide, density, alcohol;0,384042036
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, residual sugar, chlorides, total sulfur dioxide, density, alcohol;0,383975844
+RandomForestRegressor;fixed acidity, free sulfur dioxide, density, pH, sulphates;0,383934688
+RandomForestRegressor;fixed acidity, volatile acidity, residual sugar, chlorides, free sulfur dioxide, density, alcohol;0,383861294
+RandomForestRegressor;citric acid, residual sugar, free sulfur dioxide, total sulfur dioxide, density, pH, alcohol;0,383841745
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, residual sugar, chlorides, pH, sulphates;0,383776582
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, residual sugar, density, alcohol;0,383607501
+RandomForestRegressor;volatile acidity, residual sugar, total sulfur dioxide, density, pH, alcohol;0,38332627
+RandomForestRegressor;fixed acidity, total sulfur dioxide, density, pH, sulphates;0,382732943
+RandomForestRegressor;fixed acidity, citric acid, residual sugar, free sulfur dioxide, total sulfur dioxide, pH, alcohol;0,382650974
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, residual sugar, chlorides, free sulfur dioxide, density, alcohol;0,382569006
+RandomForestRegressor;volatile acidity, citric acid, residual sugar, total sulfur dioxide, sulphates;0,382482236
+RandomForestRegressor;fixed acidity, free sulfur dioxide, total sulfur dioxide, density, sulphates;0,382455485
+RandomForestRegressor;fixed acidity, citric acid, free sulfur dioxide, total sulfur dioxide, density, alcohol;0,382191403
+RandomForestRegressor;volatile acidity, residual sugar, chlorides, free sulfur dioxide, total sulfur dioxide, density, pH, alcohol;0,382148875
+RandomForestRegressor;volatile acidity, citric acid, chlorides, free sulfur dioxide, total sulfur dioxide, density, alcohol;0,382130012
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, residual sugar, chlorides, free sulfur dioxide, total sulfur dioxide, density, alcohol;0,382096745
+RandomForestRegressor;volatile acidity, citric acid, residual sugar, chlorides, total sulfur dioxide, pH, alcohol;0,381854955
+RandomForestRegressor;volatile acidity, citric acid, residual sugar, free sulfur dioxide, total sulfur dioxide, sulphates;0,381784305
+RandomForestRegressor;volatile acidity, citric acid, residual sugar, density, pH, alcohol;0,381618996
+RandomForestRegressor;fixed acidity, volatile acidity, residual sugar, chlorides, total sulfur dioxide, density, pH, alcohol;0,38146329
+RandomForestRegressor;volatile acidity, chlorides, density, pH, sulphates;0,38142042
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, residual sugar, chlorides, free sulfur dioxide, pH, sulphates;0,381402243
+RandomForestRegressor;fixed acidity, chlorides, free sulfur dioxide, density, sulphates;0,38137412
+RandomForestRegressor;fixed acidity, volatile acidity, residual sugar, total sulfur dioxide, alcohol;0,381168685
+RandomForestRegressor;residual sugar, chlorides, density, pH, sulphates;0,381010578
+RandomForestRegressor;volatile acidity, chlorides, total sulfur dioxide, density, pH, alcohol;0,380916263
+RandomForestRegressor;fixed acidity, volatile acidity, residual sugar, free sulfur dioxide, pH, alcohol;0,380911119
+RandomForestRegressor;fixed acidity, citric acid, residual sugar, free sulfur dioxide, total sulfur dioxide, alcohol;0,380820919
+RandomForestRegressor;fixed acidity, volatile acidity, free sulfur dioxide, total sulfur dioxide, density, pH, alcohol;0,380670015
+RandomForestRegressor;volatile acidity, citric acid, free sulfur dioxide, density, pH, alcohol;0,380467323
+RandomForestRegressor;fixed acidity, volatile acidity, free sulfur dioxide, total sulfur dioxide, density, alcohol;0,38032225
+RandomForestRegressor;volatile acidity, citric acid, residual sugar, chlorides, density, pH, alcohol;0,380089377
+RandomForestRegressor;fixed acidity, volatile acidity, residual sugar, chlorides, total sulfur dioxide, density, alcohol;0,380084576
+RandomForestRegressor;residual sugar, free sulfur dioxide, density, pH, sulphates;0,379999521
+RandomForestRegressor;volatile acidity, citric acid, residual sugar, chlorides, free sulfur dioxide, pH, alcohol;0,379927155
+RandomForestRegressor;volatile acidity, residual sugar, free sulfur dioxide, density, pH, alcohol;0,379919267
+RandomForestRegressor;fixed acidity, free sulfur dioxide, total sulfur dioxide, density, pH, alcohol;0,379918924
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, total sulfur dioxide, pH, alcohol;0,379875025
+RandomForestRegressor;fixed acidity, volatile acidity, chlorides, free sulfur dioxide, total sulfur dioxide, alcohol;0,379747442
+RandomForestRegressor;volatile acidity, free sulfur dioxide, total sulfur dioxide, density, alcohol;0,37966616
+RandomForestRegressor;volatile acidity, citric acid, chlorides, free sulfur dioxide, density, pH, alcohol;0,379563614
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, chlorides, total sulfur dioxide, pH, alcohol;0,379553668
+RandomForestRegressor;volatile acidity, residual sugar, free sulfur dioxide, total sulfur dioxide, density, alcohol;0,379553325
+RandomForestRegressor;volatile acidity, citric acid, residual sugar, pH, alcohol;0,379136624
+RandomForestRegressor;volatile acidity, citric acid, chlorides, free sulfur dioxide, density, alcohol;0,379098555
+RandomForestRegressor;fixed acidity, volatile acidity, residual sugar, chlorides, free sulfur dioxide, sulphates;0,379093067
+RandomForestRegressor;fixed acidity, residual sugar, chlorides, density, sulphates, alcohol;0,37897886
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, chlorides, free sulfur dioxide, pH, sulphates;0,378803949
+RandomForestRegressor;volatile acidity, total sulfur dioxide, density, pH, alcohol;0,378646871
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, total sulfur dioxide, alcohol;0,378582394
+RandomForestRegressor;fixed acidity, volatile acidity, chlorides, free sulfur dioxide, density, pH, alcohol;0,378569018
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, residual sugar, free sulfur dioxide, sulphates;0,378491166
+RandomForestRegressor;fixed acidity, volatile acidity, chlorides, total sulfur dioxide, sulphates;0,37843492
+RandomForestRegressor;fixed acidity, volatile acidity, total sulfur dioxide, density, pH, alcohol;0,378426002
+RandomForestRegressor;volatile acidity, citric acid, residual sugar, chlorides, free sulfur dioxide, pH, sulphates;0,378378673
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, residual sugar, chlorides, pH, alcohol;0,378246289
+RandomForestRegressor;fixed acidity, volatile acidity, residual sugar, chlorides, density, pH, alcohol;0,378168437
+RandomForestRegressor;fixed acidity, citric acid, residual sugar, chlorides, total sulfur dioxide, sulphates;0,378168094
+RandomForestRegressor;fixed acidity, volatile acidity, free sulfur dioxide, total sulfur dioxide, pH, alcohol;0,377636157
+RandomForestRegressor;volatile acidity, residual sugar, chlorides, total sulfur dioxide, sulphates;0,377428321
+RandomForestRegressor;fixed acidity, chlorides, density, pH, sulphates;0,377399855
+RandomForestRegressor;fixed acidity, residual sugar, chlorides, free sulfur dioxide, total sulfur dioxide, pH, sulphates;0,37726164
+RandomForestRegressor;fixed acidity, chlorides, density, sulphates, alcohol;0,377227001
+RandomForestRegressor;volatile acidity, citric acid, total sulfur dioxide, density, alcohol;0,377173155
+RandomForestRegressor;fixed acidity, volatile acidity, chlorides, total sulfur dioxide, pH, alcohol;0,377155664
+RandomForestRegressor;residual sugar, chlorides, total sulfur dioxide, density, sulphates;0,376896384
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, chlorides, free sulfur dioxide, sulphates;0,376769487
+RandomForestRegressor;fixed acidity, volatile acidity, residual sugar, chlorides, free sulfur dioxide, pH, sulphates;0,376580857
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, chlorides, total sulfur dioxide, alcohol;0,376566795
+RandomForestRegressor;citric acid, free sulfur dioxide, total sulfur dioxide, density, alcohol;0,376565766
+RandomForestRegressor;residual sugar, chlorides, free sulfur dioxide, total sulfur dioxide, density, sulphates;0,376547932
+RandomForestRegressor;fixed acidity, volatile acidity, residual sugar, chlorides, total sulfur dioxide, pH, alcohol;0,376282478
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, total sulfur dioxide, density, pH, alcohol;0,376266016
+RandomForestRegressor;volatile acidity, citric acid, residual sugar, total sulfur dioxide, alcohol;0,376199481
+RandomForestRegressor;volatile acidity, residual sugar, chlorides, total sulfur dioxide, pH, alcohol;0,376176159
+RandomForestRegressor;fixed acidity, volatile acidity, chlorides, free sulfur dioxide, total sulfur dioxide, density, alcohol;0,376175817
+RandomForestRegressor;fixed acidity, volatile acidity, chlorides, free sulfur dioxide, density, alcohol;0,3761693
+RandomForestRegressor;volatile acidity, residual sugar, chlorides, free sulfur dioxide, pH, alcohol;0,376037945
+RandomForestRegressor;fixed acidity, residual sugar, free sulfur dioxide, density, sulphates;0,375883954
+RandomForestRegressor;volatile acidity, residual sugar, chlorides, free sulfur dioxide, total sulfur dioxide, density, alcohol;0,37585343
+RandomForestRegressor;fixed acidity, volatile acidity, residual sugar, chlorides, free sulfur dioxide, total sulfur dioxide, density, alcohol;0,375665829
+RandomForestRegressor;volatile acidity, citric acid, residual sugar, chlorides, total sulfur dioxide, density, alcohol;0,375587976
+RandomForestRegressor;volatile acidity, citric acid, residual sugar, chlorides, free sulfur dioxide, sulphates;0,375497777
+RandomForestRegressor;fixed acidity, residual sugar, free sulfur dioxide, total sulfur dioxide, density, pH, alcohol;0,375437415
+RandomForestRegressor;volatile acidity, free sulfur dioxide, density, pH, alcohol;0,375399003
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, residual sugar, chlorides, density, pH, alcohol;0,375321494
+RandomForestRegressor;citric acid, residual sugar, free sulfur dioxide, total sulfur dioxide, sulphates;0,375261132
+RandomForestRegressor;fixed acidity, citric acid, chlorides, free sulfur dioxide, total sulfur dioxide, pH, alcohol;0,375184994
+RandomForestRegressor;volatile acidity, residual sugar, total sulfur dioxide, density, alcohol;0,375180192
+RandomForestRegressor;volatile acidity, chlorides, total sulfur dioxide, pH, sulphates;0,374993963
+RandomForestRegressor;residual sugar, free sulfur dioxide, total sulfur dioxide, density, sulphates;0,374942861
+RandomForestRegressor;volatile acidity, citric acid, chlorides, free sulfur dioxide, alcohol;0,37440921
+RandomForestRegressor;fixed acidity, citric acid, residual sugar, free sulfur dioxide, total sulfur dioxide, density, alcohol;0,374313866
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, free sulfur dioxide, total sulfur dioxide, pH, alcohol;0,374256248
+RandomForestRegressor;fixed acidity, volatile acidity, density, pH, sulphates;0,374206175
+RandomForestRegressor;residual sugar, chlorides, free sulfur dioxide, total sulfur dioxide, pH, sulphates;0,374070018
+RandomForestRegressor;fixed acidity, citric acid, chlorides, total sulfur dioxide, pH, sulphates;0,374023718
+RandomForestRegressor;citric acid, chlorides, density, pH, sulphates;0,373928374
+RandomForestRegressor;volatile acidity, citric acid, residual sugar, density, alcohol;0,373828572
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, chlorides, free sulfur dioxide, alcohol;0,373761694
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, chlorides, free sulfur dioxide, total sulfur dioxide, alcohol;0,373720881
+RandomForestRegressor;volatile acidity, citric acid, free sulfur dioxide, total sulfur dioxide, sulphates;0,373700303
+RandomForestRegressor;fixed acidity, volatile acidity, residual sugar, chlorides, free sulfur dioxide, total sulfur dioxide, alcohol;0,373560031
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, chlorides, density, pH, alcohol;0,373537395
+RandomForestRegressor;fixed acidity, volatile acidity, chlorides, free sulfur dioxide, total sulfur dioxide, pH, alcohol;0,37338169
+RandomForestRegressor;fixed acidity, citric acid, chlorides, density, pH, sulphates;0,373297321
+RandomForestRegressor;fixed acidity, volatile acidity, residual sugar, free sulfur dioxide, alcohol;0,373249306
+RandomForestRegressor;fixed acidity, volatile acidity, free sulfur dioxide, density, alcohol;0,373240732
+RandomForestRegressor;fixed acidity, citric acid, density, pH, sulphates;0,373034267
+RandomForestRegressor;fixed acidity, citric acid, residual sugar, total sulfur dioxide, sulphates;0,372895024
+RandomForestRegressor;citric acid, residual sugar, free sulfur dioxide, total sulfur dioxide, density, alcohol;0,372862786
+RandomForestRegressor;fixed acidity, residual sugar, chlorides, free sulfur dioxide, total sulfur dioxide, pH, alcohol;0,372859356
+RandomForestRegressor;fixed acidity, volatile acidity, chlorides, free sulfur dioxide, alcohol;0,372250252
+RandomForestRegressor;volatile acidity, chlorides, free sulfur dioxide, total sulfur dioxide, density, alcohol;0,372210125
+RandomForestRegressor;volatile acidity, chlorides, free sulfur dioxide, total sulfur dioxide, density, pH, alcohol;0,372013607
+RandomForestRegressor;citric acid, residual sugar, chlorides, total sulfur dioxide, sulphates;0,371891855
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, residual sugar, density, pH, alcohol;0,371764272
+RandomForestRegressor;fixed acidity, citric acid, free sulfur dioxide, total sulfur dioxide, alcohol;0,37159279
+RandomForestRegressor;volatile acidity, citric acid, chlorides, free sulfur dioxide, total sulfur dioxide, pH, alcohol;0,371408962
+RandomForestRegressor;citric acid, chlorides, total sulfur dioxide, pH, sulphates;0,371254971
+RandomForestRegressor;fixed acidity, volatile acidity, residual sugar, total sulfur dioxide, density, alcohol;0,371175746
+RandomForestRegressor;volatile acidity, residual sugar, total sulfur dioxide, pH, alcohol;0,371097893
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, residual sugar, alcohol;0,37108246
+RandomForestRegressor;fixed acidity, citric acid, residual sugar, density, sulphates;0,371057424
+RandomForestRegressor;volatile acidity, citric acid, chlorides, total sulfur dioxide, density, alcohol;0,370920581
+RandomForestRegressor;volatile acidity, residual sugar, chlorides, free sulfur dioxide, total sulfur dioxide, pH, alcohol;0,370720633
+RandomForestRegressor;volatile acidity, citric acid, residual sugar, chlorides, free sulfur dioxide, alcohol;0,370630777
+RandomForestRegressor;fixed acidity, volatile acidity, residual sugar, total sulfur dioxide, pH, alcohol;0,370602311
+RandomForestRegressor;fixed acidity, volatile acidity, residual sugar, chlorides, free sulfur dioxide, density, pH, alcohol;0,370539205
+RandomForestRegressor;fixed acidity, volatile acidity, residual sugar, chlorides, free sulfur dioxide, pH, alcohol;0,370498393
+RandomForestRegressor;fixed acidity, volatile acidity, chlorides, total sulfur dioxide, density, alcohol;0,370386929
+RandomForestRegressor;fixed acidity, residual sugar, free sulfur dioxide, total sulfur dioxide, pH, alcohol;0,370147884
+RandomForestRegressor;fixed acidity, volatile acidity, total sulfur dioxide, density, alcohol;0,369872484
+RandomForestRegressor;volatile acidity, residual sugar, chlorides, free sulfur dioxide, density, pH, alcohol;0,369847447
+RandomForestRegressor;volatile acidity, residual sugar, free sulfur dioxide, pH, alcohol;0,369809378
+RandomForestRegressor;fixed acidity, volatile acidity, free sulfur dioxide, total sulfur dioxide, alcohol;0,369722951
+RandomForestRegressor;fixed acidity, citric acid, free sulfur dioxide, total sulfur dioxide, density, pH, alcohol;0,369496595
+RandomForestRegressor;fixed acidity, volatile acidity, residual sugar, chlorides, free sulfur dioxide, alcohol;0,369454068
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, free sulfur dioxide, pH, alcohol;0,369446522
+RandomForestRegressor;volatile acidity, citric acid, residual sugar, free sulfur dioxide, sulphates;0,368918015
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, residual sugar, pH, alcohol;0,368905668
+RandomForestRegressor;volatile acidity, citric acid, residual sugar, total sulfur dioxide, pH, alcohol;0,368719439
+RandomForestRegressor;volatile acidity, chlorides, free sulfur dioxide, density, pH, alcohol;0,368471819
+RandomForestRegressor;volatile acidity, citric acid, free sulfur dioxide, pH, alcohol;0,36847079
+RandomForestRegressor;fixed acidity, citric acid, residual sugar, free sulfur dioxide, density, alcohol;0,368349724
+RandomForestRegressor;volatile acidity, citric acid, residual sugar, chlorides, free sulfur dioxide, total sulfur dioxide, pH, alcohol;0,368312341
+RandomForestRegressor;chlorides, free sulfur dioxide, total sulfur dioxide, pH, sulphates;0,368218026
+RandomForestRegressor;volatile acidity, free sulfur dioxide, total sulfur dioxide, pH, alcohol;0,368190246
+RandomForestRegressor;volatile acidity, citric acid, free sulfur dioxide, total sulfur dioxide, alcohol;0,368081526
+RandomForestRegressor;volatile acidity, free sulfur dioxide, total sulfur dioxide, pH, sulphates;0,368061634
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, residual sugar, sulphates;0,368018078
+RandomForestRegressor;volatile acidity, citric acid, free sulfur dioxide, total sulfur dioxide, pH, alcohol;0,367790007
+RandomForestRegressor;fixed acidity, citric acid, total sulfur dioxide, pH, sulphates;0,367745422
+RandomForestRegressor;fixed acidity, volatile acidity, total sulfur dioxide, pH, sulphates;0,367685746
+RandomForestRegressor;volatile acidity, residual sugar, chlorides, pH, alcohol;0,367540329
+RandomForestRegressor;volatile acidity, residual sugar, free sulfur dioxide, total sulfur dioxide, alcohol;0,36746522
+RandomForestRegressor;volatile acidity, citric acid, residual sugar, chlorides, pH, sulphates;0,367111967
+RandomForestRegressor;volatile acidity, chlorides, total sulfur dioxide, density, alcohol;0,366864347
+RandomForestRegressor;volatile acidity, citric acid, residual sugar, chlorides, density, alcohol;0,366853373
+RandomForestRegressor;citric acid, chlorides, free sulfur dioxide, total sulfur dioxide, density, alcohol;0,366835538
+RandomForestRegressor;volatile acidity, citric acid, chlorides, free sulfur dioxide, pH, sulphates;0,366609182
+RandomForestRegressor;volatile acidity, chlorides, free sulfur dioxide, total sulfur dioxide, sulphates;0,366492918
+RandomForestRegressor;fixed acidity, citric acid, residual sugar, free sulfur dioxide, alcohol;0,366463766
+RandomForestRegressor;fixed acidity, chlorides, free sulfur dioxide, total sulfur dioxide, density, pH, alcohol;0,36632658
+RandomForestRegressor;volatile acidity, citric acid, density, pH, alcohol;0,366067985
+RandomForestRegressor;volatile acidity, citric acid, chlorides, total sulfur dioxide, sulphates;0,366008996
+RandomForestRegressor;fixed acidity, citric acid, residual sugar, chlorides, free sulfur dioxide, total sulfur dioxide, alcohol;0,365805275
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, total sulfur dioxide, sulphates;0,365792242
+RandomForestRegressor;volatile acidity, citric acid, residual sugar, chlorides, total sulfur dioxide, alcohol;0,365350162
+RandomForestRegressor;fixed acidity, citric acid, residual sugar, chlorides, free sulfur dioxide, total sulfur dioxide, density, alcohol;0,36532684
+RandomForestRegressor;fixed acidity, citric acid, chlorides, free sulfur dioxide, total sulfur dioxide, alcohol;0,364881673
+RandomForestRegressor;residual sugar, chlorides, free sulfur dioxide, total sulfur dioxide, density, pH, alcohol;0,364859038
+RandomForestRegressor;fixed acidity, residual sugar, chlorides, free sulfur dioxide, total sulfur dioxide, density, pH, alcohol;0,364690642
+RandomForestRegressor;citric acid, residual sugar, chlorides, free sulfur dioxide, total sulfur dioxide, density, alcohol;0,364686527
+RandomForestRegressor;fixed acidity, citric acid, residual sugar, chlorides, free sulfur dioxide, total sulfur dioxide, pH, alcohol;0,364477319
+RandomForestRegressor;volatile acidity, residual sugar, density, pH, alcohol;0,364407354
+RandomForestRegressor;citric acid, chlorides, free sulfur dioxide, total sulfur dioxide, pH, alcohol;0,364205006
+RandomForestRegressor;volatile acidity, residual sugar, chlorides, free sulfur dioxide, sulphates;0,364180655
+RandomForestRegressor;fixed acidity, chlorides, free sulfur dioxide, total sulfur dioxide, pH, alcohol;0,364082225
+RandomForestRegressor;volatile acidity, chlorides, total sulfur dioxide, pH, alcohol;0,36369982
+RandomForestRegressor;citric acid, residual sugar, free sulfur dioxide, density, alcohol;0,363673755
+RandomForestRegressor;volatile acidity, residual sugar, chlorides, total sulfur dioxide, density, alcohol;0,363588357
+RandomForestRegressor;fixed acidity, citric acid, residual sugar, chlorides, free sulfur dioxide, total sulfur dioxide, density, pH, alcohol;0,36346146
+RandomForestRegressor;citric acid, residual sugar, free sulfur dioxide, density, pH, alcohol;0,363349654
+RandomForestRegressor;volatile acidity, citric acid, residual sugar, chlorides, free sulfur dioxide, total sulfur dioxide, alcohol;0,363348968
+RandomForestRegressor;volatile acidity, citric acid, residual sugar, chlorides, sulphates;0,363199093
+RandomForestRegressor;citric acid, free sulfur dioxide, total sulfur dioxide, pH, sulphates;0,362782391
+RandomForestRegressor;volatile acidity, citric acid, chlorides, free sulfur dioxide, pH, alcohol;0,36266647
+RandomForestRegressor;fixed acidity, volatile acidity, free sulfur dioxide, total sulfur dioxide, sulphates;0,362398272
+RandomForestRegressor;volatile acidity, residual sugar, chlorides, density, pH, alcohol;0,362360546
+RandomForestRegressor;fixed acidity, volatile acidity, chlorides, free sulfur dioxide, pH, alcohol;0,362219931
+RandomForestRegressor;fixed acidity, residual sugar, chlorides, total sulfur dioxide, pH, sulphates;0,362072799
+RandomForestRegressor;volatile acidity, chlorides, free sulfur dioxide, total sulfur dioxide, pH, alcohol;0,361814204
+RandomForestRegressor;citric acid, residual sugar, chlorides, free sulfur dioxide, total sulfur dioxide, pH, alcohol;0,361718175
+RandomForestRegressor;volatile acidity, citric acid, chlorides, pH, alcohol;0,36153366
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, residual sugar, chlorides, alcohol;0,361455464
+RandomForestRegressor;fixed acidity, citric acid, free sulfur dioxide, total sulfur dioxide, pH, alcohol;0,36129873
+RandomForestRegressor;fixed acidity, volatile acidity, free sulfur dioxide, density, pH, alcohol;0,361090551
+RandomForestRegressor;volatile acidity, citric acid, free sulfur dioxide, total sulfur dioxide, pH, sulphates;0,361074088
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, density, pH, alcohol;0,360816523
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, chlorides, pH, sulphates;0,360761648
+RandomForestRegressor;volatile acidity, citric acid, residual sugar, chlorides, total sulfur dioxide, density;0,360720836
+RandomForestRegressor;volatile acidity, residual sugar, free sulfur dioxide, density, alcohol;0,360702316
+RandomForestRegressor;fixed acidity, citric acid, residual sugar, total sulfur dioxide, pH, alcohol;0,360597369
+RandomForestRegressor;fixed acidity, citric acid, residual sugar, chlorides, total sulfur dioxide, density, alcohol;0,360589138
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, residual sugar, chlorides, density, alcohol;0,360512657
+RandomForestRegressor;citric acid, free sulfur dioxide, total sulfur dioxide, density, pH, alcohol;0,360433775
+RandomForestRegressor;citric acid, residual sugar, chlorides, free sulfur dioxide, total sulfur dioxide, alcohol;0,360186155
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, chlorides, density, alcohol;0,360103844
+RandomForestRegressor;fixed acidity, volatile acidity, total sulfur dioxide, pH, alcohol;0,360099728
+RandomForestRegressor;citric acid, chlorides, free sulfur dioxide, total sulfur dioxide, density, pH, alcohol;0,359987922
+RandomForestRegressor;residual sugar, free sulfur dioxide, total sulfur dioxide, density, pH, alcohol;0,359767053
+RandomForestRegressor;volatile acidity, residual sugar, chlorides, free sulfur dioxide, pH, sulphates;0,359719724
+RandomForestRegressor;citric acid, residual sugar, chlorides, free sulfur dioxide, total sulfur dioxide, density, pH, alcohol;0,359324973
+RandomForestRegressor;fixed acidity, free sulfur dioxide, total sulfur dioxide, pH, sulphates;0,359281073
+RandomForestRegressor;fixed acidity, volatile acidity, residual sugar, density, pH, alcohol;0,359199105
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, chlorides, pH, alcohol;0,359155549
+RandomForestRegressor;fixed acidity, volatile acidity, residual sugar, chlorides, total sulfur dioxide, alcohol;0,35898441
+RandomForestRegressor;fixed acidity, volatile acidity, chlorides, total sulfur dioxide, alcohol;0,358914102
+RandomForestRegressor;fixed acidity, citric acid, residual sugar, total sulfur dioxide, density, pH, alcohol;0,358598918
+RandomForestRegressor;fixed acidity, citric acid, residual sugar, chlorides, total sulfur dioxide, alcohol;0,358529297
+RandomForestRegressor;fixed acidity, citric acid, free sulfur dioxide, density, alcohol;0,358335865
+RandomForestRegressor;volatile acidity, citric acid, chlorides, total sulfur dioxide, pH, alcohol;0,358162668
+RandomForestRegressor;volatile acidity, chlorides, density, pH, alcohol;0,358086873
+RandomForestRegressor;fixed acidity, volatile acidity, residual sugar, chlorides, sulphates;0,357835824
+RandomForestRegressor;volatile acidity, citric acid, chlorides, free sulfur dioxide, total sulfur dioxide, alcohol;0,357807701
+RandomForestRegressor;fixed acidity, volatile acidity, chlorides, density, pH, alcohol;0,357736707
+RandomForestRegressor;fixed acidity, free sulfur dioxide, total sulfur dioxide, density, alcohol;0,357612211
+RandomForestRegressor;volatile acidity, citric acid, total sulfur dioxide, pH, alcohol;0,357585117
+RandomForestRegressor;volatile acidity, citric acid, total sulfur dioxide, pH, sulphates;0,357380368
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, residual sugar, free sulfur dioxide, total sulfur dioxide, density;0,357138921
+RandomForestRegressor;fixed acidity, citric acid, chlorides, total sulfur dioxide, sulphates;0,35708439
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, residual sugar, free sulfur dioxide, total sulfur dioxide, density, pH;0,356858377
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, residual sugar, chlorides, total sulfur dioxide, density;0,356122033
+RandomForestRegressor;citric acid, free sulfur dioxide, total sulfur dioxide, pH, alcohol;0,356005425
+RandomForestRegressor;citric acid, residual sugar, free sulfur dioxide, total sulfur dioxide, pH, sulphates;0,355967013
+RandomForestRegressor;citric acid, residual sugar, total sulfur dioxide, density, pH, alcohol;0,355736885
+RandomForestRegressor;fixed acidity, residual sugar, free sulfur dioxide, total sulfur dioxide, density, alcohol;0,355731054
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, residual sugar, chlorides, sulphates;0,355730025
+RandomForestRegressor;fixed acidity, citric acid, chlorides, total sulfur dioxide, density, pH, alcohol;0,355360653
+RandomForestRegressor;fixed acidity, volatile acidity, residual sugar, free sulfur dioxide, pH, sulphates;0,355264281
+RandomForestRegressor;fixed acidity, residual sugar, chlorides, total sulfur dioxide, pH, alcohol;0,35526188
+RandomForestRegressor;volatile acidity, citric acid, chlorides, density, alcohol;0,354970018
+RandomForestRegressor;fixed acidity, volatile acidity, residual sugar, chlorides, pH, alcohol;0,354910342
+RandomForestRegressor;fixed acidity, citric acid, residual sugar, chlorides, total sulfur dioxide, pH, alcohol;0,354759095
+RandomForestRegressor;residual sugar, chlorides, free sulfur dioxide, total sulfur dioxide, pH, alcohol;0,35470765
+RandomForestRegressor;residual sugar, chlorides, total sulfur dioxide, pH, sulphates;0,354580411
+RandomForestRegressor;fixed acidity, citric acid, chlorides, free sulfur dioxide, total sulfur dioxide, density, pH, alcohol;0,354442882
+RandomForestRegressor;fixed acidity, citric acid, chlorides, density, sulphates;0,354438424
+RandomForestRegressor;fixed acidity, citric acid, total sulfur dioxide, density, pH, alcohol;0,354242591
+RandomForestRegressor;citric acid, residual sugar, chlorides, free sulfur dioxide, density, pH, alcohol;0,354032354
+RandomForestRegressor;fixed acidity, residual sugar, total sulfur dioxide, pH, alcohol;0,353985368
+RandomForestRegressor;residual sugar, chlorides, free sulfur dioxide, density, sulphates;0,353972336
+RandomForestRegressor;volatile acidity, citric acid, residual sugar, chlorides, density, pH;0,35388488
+RandomForestRegressor;fixed acidity, citric acid, residual sugar, chlorides, free sulfur dioxide, pH, alcohol;0,353854013
+RandomForestRegressor;fixed acidity, citric acid, residual sugar, free sulfur dioxide, density, pH, alcohol;0,353703795
+RandomForestRegressor;fixed acidity, residual sugar, free sulfur dioxide, total sulfur dioxide, alcohol;0,35367087
+RandomForestRegressor;fixed acidity, citric acid, residual sugar, chlorides, pH, sulphates;0,353527169
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, chlorides, sulphates;0,353499045
+RandomForestRegressor;citric acid, chlorides, free sulfur dioxide, total sulfur dioxide, alcohol;0,353483955
+RandomForestRegressor;fixed acidity, citric acid, residual sugar, chlorides, free sulfur dioxide, alcohol;0,353385524
+RandomForestRegressor;volatile acidity, citric acid, residual sugar, free sulfur dioxide, density;0,353268917
+RandomForestRegressor;citric acid, residual sugar, free sulfur dioxide, total sulfur dioxide, alcohol;0,35291292
+RandomForestRegressor;volatile acidity, citric acid, residual sugar, chlorides, alcohol;0,352807973
+RandomForestRegressor;fixed acidity, chlorides, total sulfur dioxide, pH, alcohol;0,352642665
+RandomForestRegressor;fixed acidity, residual sugar, chlorides, free sulfur dioxide, total sulfur dioxide, sulphates;0,352634434
+RandomForestRegressor;volatile acidity, citric acid, residual sugar, chlorides, free sulfur dioxide, total sulfur dioxide, density;0,352411507
+RandomForestRegressor;citric acid, residual sugar, free sulfur dioxide, total sulfur dioxide, pH, alcohol;0,352033561
+RandomForestRegressor;fixed acidity, citric acid, residual sugar, total sulfur dioxide, density, alcohol;0,351936845
+RandomForestRegressor;volatile acidity, citric acid, residual sugar, pH, sulphates;0,351624748
+RandomForestRegressor;volatile acidity, citric acid, residual sugar, free sulfur dioxide, pH, sulphates;0,351624405
+RandomForestRegressor;volatile acidity, citric acid, residual sugar, chlorides, total sulfur dioxide, density, pH;0,351528032
+RandomForestRegressor;fixed acidity, citric acid, chlorides, free sulfur dioxide, pH, alcohol;0,351491678
+RandomForestRegressor;residual sugar, free sulfur dioxide, total sulfur dioxide, pH, sulphates;0,351478988
+RandomForestRegressor;fixed acidity, volatile acidity, residual sugar, chlorides, pH, sulphates;0,351014272
+RandomForestRegressor;fixed acidity, volatile acidity, free sulfur dioxide, pH, alcohol;0,351002269
+RandomForestRegressor;fixed acidity, citric acid, residual sugar, chlorides, total sulfur dioxide, density, pH, alcohol;0,350924759
+RandomForestRegressor;fixed acidity, volatile acidity, chlorides, free sulfur dioxide, pH, sulphates;0,350896293
+RandomForestRegressor;fixed acidity, citric acid, residual sugar, total sulfur dioxide, alcohol;0,350837303
+RandomForestRegressor;fixed acidity, residual sugar, total sulfur dioxide, density, pH, alcohol;0,350776941
+RandomForestRegressor;citric acid, residual sugar, chlorides, total sulfur dioxide, pH, alcohol;0,350652102
+RandomForestRegressor;citric acid, free sulfur dioxide, density, pH, alcohol;0,350630496
+RandomForestRegressor;fixed acidity, citric acid, chlorides, pH, sulphates;0,350630153
+RandomForestRegressor;fixed acidity, citric acid, residual sugar, free sulfur dioxide, pH, alcohol;0,350390764
+RandomForestRegressor;fixed acidity, free sulfur dioxide, total sulfur dioxide, pH, alcohol;0,350004244
+RandomForestRegressor;residual sugar, free sulfur dioxide, total sulfur dioxide, pH, alcohol;0,349892437
+RandomForestRegressor;volatile acidity, chlorides, free sulfur dioxide, density, alcohol;0,349790577
+RandomForestRegressor;volatile acidity, chlorides, free sulfur dioxide, pH, alcohol;0,349736046
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, residual sugar, pH, sulphates;0,349592344
+RandomForestRegressor;fixed acidity, residual sugar, chlorides, total sulfur dioxide, density, pH, alcohol;0,349545358
+RandomForestRegressor;fixed acidity, residual sugar, free sulfur dioxide, total sulfur dioxide, pH, sulphates;0,349490827
+RandomForestRegressor;fixed acidity, residual sugar, free sulfur dioxide, density, pH, alcohol;0,349486368
+RandomForestRegressor;citric acid, chlorides, total sulfur dioxide, density, pH, alcohol;0,349463733
+RandomForestRegressor;fixed acidity, volatile acidity, residual sugar, density, alcohol;0,349438696
+RandomForestRegressor;volatile acidity, citric acid, residual sugar, chlorides, free sulfur dioxide, density, pH;0,349340952
+RandomForestRegressor;fixed acidity, citric acid, chlorides, free sulfur dioxide, total sulfur dioxide, density, alcohol;0,349036057
+RandomForestRegressor;fixed acidity, residual sugar, chlorides, total sulfur dioxide, sulphates;0,34897398
+RandomForestRegressor;fixed acidity, volatile acidity, residual sugar, pH, alcohol;0,348697208
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, free sulfur dioxide, pH, sulphates;0,348670114
+RandomForestRegressor;volatile acidity, residual sugar, chlorides, pH, sulphates;0,347766061
+RandomForestRegressor;volatile acidity, citric acid, chlorides, total sulfur dioxide, density;0,347762975
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, residual sugar, chlorides, total sulfur dioxide, density, pH;0,347753029
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, residual sugar, total sulfur dioxide, density, pH;0,347681692
+RandomForestRegressor;volatile acidity, citric acid, chlorides, free sulfur dioxide, sulphates;0,347664201
+RandomForestRegressor;fixed acidity, volatile acidity, chlorides, free sulfur dioxide, sulphates;0,347485174
+RandomForestRegressor;fixed acidity, citric acid, residual sugar, free sulfur dioxide, pH, sulphates;0,347344559
+RandomForestRegressor;citric acid, residual sugar, total sulfur dioxide, density, alcohol;0,347248872
+RandomForestRegressor;volatile acidity, chlorides, free sulfur dioxide, pH, sulphates;0,34722555
+RandomForestRegressor;volatile acidity, citric acid, residual sugar, total sulfur dioxide, density, pH;0,346978273
+RandomForestRegressor;volatile acidity, citric acid, chlorides, total sulfur dioxide, density, pH;0,346766665
+RandomForestRegressor;residual sugar, total sulfur dioxide, density, pH, alcohol;0,346746773
+RandomForestRegressor;fixed acidity, chlorides, total sulfur dioxide, pH, sulphates;0,346450452
+RandomForestRegressor;citric acid, residual sugar, chlorides, free sulfur dioxide, alcohol;0,346409982
+RandomForestRegressor;fixed acidity, volatile acidity, free sulfur dioxide, pH, sulphates;0,346373971
+RandomForestRegressor;fixed acidity, chlorides, free sulfur dioxide, total sulfur dioxide, sulphates;0,346327671
+RandomForestRegressor;volatile acidity, citric acid, residual sugar, chlorides, free sulfur dioxide, total sulfur dioxide, density, pH;0,345970646
+RandomForestRegressor;fixed acidity, citric acid, residual sugar, chlorides, free sulfur dioxide, density, alcohol;0,345917143
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, residual sugar, total sulfur dioxide, density;0,345720968
+RandomForestRegressor;fixed acidity, volatile acidity, chlorides, pH, alcohol;0,345416073
+RandomForestRegressor;residual sugar, chlorides, total sulfur dioxide, pH, alcohol;0,345398582
+RandomForestRegressor;citric acid, chlorides, free sulfur dioxide, total sulfur dioxide, density;0,345278202
+RandomForestRegressor;volatile acidity, residual sugar, chlorides, free sulfur dioxide, total sulfur dioxide, alcohol;0,345092315
+RandomForestRegressor;citric acid, total sulfur dioxide, density, pH, alcohol;0,344961303
+RandomForestRegressor;fixed acidity, volatile acidity, residual sugar, chlorides, total sulfur dioxide, density, pH;0,344917061
+RandomForestRegressor;citric acid, residual sugar, chlorides, free sulfur dioxide, density, alcohol;0,344861157
+RandomForestRegressor;free sulfur dioxide, total sulfur dioxide, density, pH, alcohol;0,344804568
+RandomForestRegressor;fixed acidity, volatile acidity, residual sugar, chlorides, free sulfur dioxide, total sulfur dioxide, density, pH;0,344765128
+RandomForestRegressor;residual sugar, chlorides, total sulfur dioxide, density, pH, alcohol;0,344571353
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, free sulfur dioxide, total sulfur dioxide, density, pH;0,344467778
+RandomForestRegressor;fixed acidity, citric acid, free sulfur dioxide, density, pH, alcohol;0,344212956
+RandomForestRegressor;citric acid, residual sugar, total sulfur dioxide, pH, sulphates;0,344147107
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, residual sugar, free sulfur dioxide, density;0,343413507
+RandomForestRegressor;citric acid, residual sugar, chlorides, free sulfur dioxide, pH, alcohol;0,343337712
+RandomForestRegressor;fixed acidity, volatile acidity, residual sugar, chlorides, density, alcohol;0,343311647
+RandomForestRegressor;chlorides, free sulfur dioxide, density, pH, alcohol;0,343226249
+RandomForestRegressor;volatile acidity, citric acid, residual sugar, free sulfur dioxide, total sulfur dioxide, density, pH;0,343054767
+RandomForestRegressor;fixed acidity, volatile acidity, residual sugar, pH, sulphates;0,343045164
+RandomForestRegressor;chlorides, free sulfur dioxide, total sulfur dioxide, pH, alcohol;0,343013268
+RandomForestRegressor;volatile acidity, citric acid, residual sugar, free sulfur dioxide, total sulfur dioxide, density;0,342773536
+RandomForestRegressor;citric acid, residual sugar, free sulfur dioxide, pH, alcohol;0,342453551
+RandomForestRegressor;fixed acidity, residual sugar, chlorides, free sulfur dioxide, density, pH, alcohol;0,342442576
+RandomForestRegressor;fixed acidity, citric acid, chlorides, free sulfur dioxide, density, pH, alcohol;0,342394561
+RandomForestRegressor;fixed acidity, volatile acidity, chlorides, density, alcohol;0,342352377
+RandomForestRegressor;fixed acidity, chlorides, free sulfur dioxide, pH, alcohol;0,342232339
+RandomForestRegressor;volatile acidity, chlorides, free sulfur dioxide, total sulfur dioxide, alcohol;0,342126021
+RandomForestRegressor;fixed acidity, citric acid, residual sugar, chlorides, free sulfur dioxide, pH, sulphates;0,341875314
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, free sulfur dioxide, sulphates;0,341743959
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, residual sugar, free sulfur dioxide, density, pH;0,341743273
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, density, alcohol;0,341620835
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, residual sugar, density;0,341571448
+RandomForestRegressor;citric acid, residual sugar, chlorides, free sulfur dioxide, pH, sulphates;0,341457584
+RandomForestRegressor;volatile acidity, citric acid, chlorides, free sulfur dioxide, total sulfur dioxide, density, pH;0,341433577
+RandomForestRegressor;citric acid, residual sugar, chlorides, total sulfur dioxide, density, pH, alcohol;0,341403053
+RandomForestRegressor;volatile acidity, citric acid, residual sugar, chlorides, density;0,34140271
+RandomForestRegressor;fixed acidity, citric acid, residual sugar, chlorides, free sulfur dioxide, density, pH, alcohol;0,341292618
+RandomForestRegressor;volatile acidity, citric acid, free sulfur dioxide, total sulfur dioxide, density;0,340964745
+RandomForestRegressor;citric acid, residual sugar, chlorides, total sulfur dioxide, density, alcohol;0,340734273
+RandomForestRegressor;volatile acidity, citric acid, chlorides, total sulfur dioxide, alcohol;0,340439324
+RandomForestRegressor;fixed acidity, chlorides, total sulfur dioxide, density, pH, alcohol;0,340392338
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, residual sugar, chlorides, free sulfur dioxide, density, pH;0,340233889
+RandomForestRegressor;fixed acidity, residual sugar, free sulfur dioxide, pH, alcohol;0,340180306
+RandomForestRegressor;volatile acidity, residual sugar, chlorides, free sulfur dioxide, density, alcohol;0,340168383
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, residual sugar, chlorides, free sulfur dioxide, total sulfur dioxide, density, pH;0,339987298
+RandomForestRegressor;volatile acidity, residual sugar, chlorides, density, alcohol;0,33979661
+RandomForestRegressor;fixed acidity, volatile acidity, residual sugar, chlorides, alcohol;0,339718414
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, pH, alcohol;0,339715328
+RandomForestRegressor;fixed acidity, citric acid, chlorides, free sulfur dioxide, pH, sulphates;0,339644334
+RandomForestRegressor;fixed acidity, volatile acidity, chlorides, pH, sulphates;0,33949926
+RandomForestRegressor;fixed acidity, volatile acidity, density, pH, alcohol;0,339458791
+RandomForestRegressor;fixed acidity, volatile acidity, residual sugar, chlorides, free sulfur dioxide, total sulfur dioxide, density;0,339441299
+RandomForestRegressor;volatile acidity, citric acid, free sulfur dioxide, pH, sulphates;0,33941009
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, chlorides, free sulfur dioxide, total sulfur dioxide, density, pH;0,339139834
+RandomForestRegressor;fixed acidity, citric acid, residual sugar, chlorides, free sulfur dioxide, sulphates;0,338988587
+RandomForestRegressor;fixed acidity, citric acid, total sulfur dioxide, density, alcohol;0,338917937
+RandomForestRegressor;residual sugar, chlorides, free sulfur dioxide, density, pH, alcohol;0,338912449
+RandomForestRegressor;chlorides, total sulfur dioxide, density, pH, alcohol;0,338788982
+RandomForestRegressor;volatile acidity, residual sugar, chlorides, total sulfur dioxide, alcohol;0,338766004
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, chlorides, alcohol;0,338752285
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, pH, sulphates;0,338030003
+RandomForestRegressor;fixed acidity, residual sugar, chlorides, free sulfur dioxide, total sulfur dioxide, alcohol;0,336826886
+RandomForestRegressor;fixed acidity, citric acid, free sulfur dioxide, pH, alcohol;0,336701704
+RandomForestRegressor;volatile acidity, citric acid, chlorides, free sulfur dioxide, density, pH;0,336437622
+RandomForestRegressor;volatile acidity, citric acid, residual sugar, total sulfur dioxide, density;0,336398524
+RandomForestRegressor;fixed acidity, chlorides, free sulfur dioxide, total sulfur dioxide, alcohol;0,336213666
+RandomForestRegressor;residual sugar, chlorides, free sulfur dioxide, total sulfur dioxide, sulphates;0,336090885
+RandomForestRegressor;volatile acidity, citric acid, chlorides, pH, sulphates;0,336032582
+RandomForestRegressor;fixed acidity, citric acid, chlorides, free sulfur dioxide, alcohol;0,33603121
+RandomForestRegressor;chlorides, free sulfur dioxide, total sulfur dioxide, density, pH, alcohol;0,335895053
+RandomForestRegressor;citric acid, residual sugar, chlorides, pH, sulphates;0,335836749
+RandomForestRegressor;residual sugar, free sulfur dioxide, density, pH, alcohol;0,335759925
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, residual sugar, chlorides, free sulfur dioxide, total sulfur dioxide, density;0,335503731
+RandomForestRegressor;citric acid, chlorides, free sulfur dioxide, density, pH, alcohol;0,335497558
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, residual sugar, density, pH;0,335255768
+RandomForestRegressor;fixed acidity, citric acid, free sulfur dioxide, pH, sulphates;0,335076398
+RandomForestRegressor;citric acid, chlorides, free sulfur dioxide, total sulfur dioxide, density, pH;0,335066109
+RandomForestRegressor;volatile acidity, citric acid, residual sugar, chlorides, free sulfur dioxide, density;0,335007463
+RandomForestRegressor;citric acid, residual sugar, total sulfur dioxide, pH, alcohol;0,334953274
+RandomForestRegressor;volatile acidity, residual sugar, chlorides, total sulfur dioxide, density, pH;0,334905602
+RandomForestRegressor;fixed acidity, residual sugar, free sulfur dioxide, total sulfur dioxide, sulphates;0,334679589
+RandomForestRegressor;volatile acidity, citric acid, free sulfur dioxide, density, pH;0,334368521
+RandomForestRegressor;volatile acidity, residual sugar, free sulfur dioxide, pH, sulphates;0,334125017
+RandomForestRegressor;fixed acidity, volatile acidity, residual sugar, free sulfur dioxide, total sulfur dioxide, density, pH;0,333897974
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, free sulfur dioxide, total sulfur dioxide, density;0,333865736
+RandomForestRegressor;fixed acidity, citric acid, total sulfur dioxide, pH, alcohol;0,333611257
+RandomForestRegressor;fixed acidity, residual sugar, chlorides, free sulfur dioxide, pH, alcohol;0,333370496
+RandomForestRegressor;volatile acidity, residual sugar, chlorides, free sulfur dioxide, total sulfur dioxide, density, pH;0,333002839
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, residual sugar, chlorides, free sulfur dioxide, density;0,33239545
+RandomForestRegressor;fixed acidity, citric acid, chlorides, total sulfur dioxide, pH, alcohol;0,332359096
+RandomForestRegressor;fixed acidity, volatile acidity, residual sugar, chlorides, total sulfur dioxide, density;0,332127938
+RandomForestRegressor;volatile acidity, citric acid, chlorides, free sulfur dioxide, total sulfur dioxide, density;0,33193725
+RandomForestRegressor;fixed acidity, chlorides, free sulfur dioxide, total sulfur dioxide, density, alcohol;0,331792519
+RandomForestRegressor;citric acid, chlorides, free sulfur dioxide, density, alcohol;0,331575423
+RandomForestRegressor;chlorides, free sulfur dioxide, total sulfur dioxide, density, alcohol;0,330741335
+RandomForestRegressor;fixed acidity, citric acid, residual sugar, free sulfur dioxide, total sulfur dioxide, density, pH;0,330618554
+RandomForestRegressor;volatile acidity, citric acid, free sulfur dioxide, total sulfur dioxide, density, pH;0,33034384
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, free sulfur dioxide, density, pH;0,330197737
+RandomForestRegressor;citric acid, chlorides, free sulfur dioxide, pH, sulphates;0,329649338
+RandomForestRegressor;fixed acidity, citric acid, chlorides, free sulfur dioxide, sulphates;0,329151012
+RandomForestRegressor;fixed acidity, citric acid, residual sugar, chlorides, sulphates;0,329095451
+RandomForestRegressor;volatile acidity, citric acid, residual sugar, free sulfur dioxide, density, pH;0,329093394
+RandomForestRegressor;residual sugar, chlorides, free sulfur dioxide, pH, alcohol;0,32904092
+RandomForestRegressor;volatile acidity, residual sugar, chlorides, free sulfur dioxide, alcohol;0,328535391
+RandomForestRegressor;fixed acidity, citric acid, chlorides, free sulfur dioxide, density, alcohol;0,328144413
+RandomForestRegressor;fixed acidity, citric acid, residual sugar, free sulfur dioxide, sulphates;0,327958869
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, chlorides, free sulfur dioxide, total sulfur dioxide, density;0,327666664
+RandomForestRegressor;volatile acidity, citric acid, residual sugar, density, pH;0,327255107
+RandomForestRegressor;citric acid, chlorides, total sulfur dioxide, density, alcohol;0,32719646
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, total sulfur dioxide, density;0,326923804
+RandomForestRegressor;citric acid, residual sugar, chlorides, free sulfur dioxide, total sulfur dioxide, density;0,326807539
+RandomForestRegressor;fixed acidity, citric acid, free sulfur dioxide, total sulfur dioxide, density;0,326684415
+RandomForestRegressor;volatile acidity, citric acid, chlorides, free sulfur dioxide, density;0,326401813
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, chlorides, total sulfur dioxide, density, pH;0,325925779
+RandomForestRegressor;fixed acidity, volatile acidity, residual sugar, free sulfur dioxide, total sulfur dioxide, density;0,325367434
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, chlorides, total sulfur dioxide, density;0,325056023
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, total sulfur dioxide, density, pH;0,325003549
+RandomForestRegressor;fixed acidity, chlorides, free sulfur dioxide, density, pH, alcohol;0,324381756
+RandomForestRegressor;fixed acidity, citric acid, residual sugar, chlorides, free sulfur dioxide, total sulfur dioxide, density, pH;0,324107728
+RandomForestRegressor;volatile acidity, residual sugar, chlorides, free sulfur dioxide, total sulfur dioxide, density;0,323895433
+RandomForestRegressor;citric acid, residual sugar, chlorides, total sulfur dioxide, alcohol;0,323713319
+RandomForestRegressor;fixed acidity, total sulfur dioxide, density, pH, alcohol;0,323663247
+RandomForestRegressor;citric acid, chlorides, free sulfur dioxide, pH, alcohol;0,323650214
+RandomForestRegressor;volatile acidity, citric acid, total sulfur dioxide, density, pH;0,323559329
+RandomForestRegressor;citric acid, residual sugar, chlorides, free sulfur dioxide, sulphates;0,323279813
+RandomForestRegressor;volatile acidity, citric acid, chlorides, density, pH;0,323228368
+RandomForestRegressor;fixed acidity, residual sugar, free sulfur dioxide, density, alcohol;0,323190299
+RandomForestRegressor;citric acid, residual sugar, chlorides, density, pH, alcohol;0,323063403
+RandomForestRegressor;fixed acidity, citric acid, chlorides, total sulfur dioxide, alcohol;0,322889177
+RandomForestRegressor;fixed acidity, citric acid, residual sugar, density, pH, alcohol;0,322843563
+RandomForestRegressor;fixed acidity, free sulfur dioxide, density, pH, alcohol;0,322788346
+RandomForestRegressor;fixed acidity, residual sugar, chlorides, total sulfur dioxide, alcohol;0,322319514
+RandomForestRegressor;volatile acidity, residual sugar, free sulfur dioxide, total sulfur dioxide, density, pH;0,321789292
+RandomForestRegressor;fixed acidity, citric acid, residual sugar, pH, sulphates;0,32171967
+RandomForestRegressor;fixed acidity, residual sugar, total sulfur dioxide, pH, sulphates;0,321605463
+RandomForestRegressor;citric acid, chlorides, total sulfur dioxide, pH, alcohol;0,320781321
+RandomForestRegressor;citric acid, residual sugar, chlorides, free sulfur dioxide, total sulfur dioxide, density, pH;0,320576915
+RandomForestRegressor;fixed acidity, volatile acidity, residual sugar, total sulfur dioxide, density, pH;0,320436986
+RandomForestRegressor;fixed acidity, volatile acidity, residual sugar, free sulfur dioxide, density, pH;0,320298771
+RandomForestRegressor;fixed acidity, citric acid, residual sugar, free sulfur dioxide, total sulfur dioxide, density;0,318652202
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, residual sugar, chlorides, density;0,318168623
+RandomForestRegressor;fixed acidity, volatile acidity, residual sugar, chlorides, free sulfur dioxide, density;0,318162792
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, chlorides, free sulfur dioxide, density;0,318088369
+RandomForestRegressor;residual sugar, chlorides, free sulfur dioxide, pH, sulphates;0,317740947
+RandomForestRegressor;volatile acidity, residual sugar, chlorides, total sulfur dioxide, density;0,317166482
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, residual sugar, chlorides, density, pH;0,317098575
+RandomForestRegressor;fixed acidity, residual sugar, chlorides, free sulfur dioxide, alcohol;0,316823518
+RandomForestRegressor;residual sugar, chlorides, density, pH, alcohol;0,316644834
+RandomForestRegressor;fixed acidity, volatile acidity, chlorides, free sulfur dioxide, total sulfur dioxide, density, pH;0,316631458
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, free sulfur dioxide, density;0,316614653
+RandomForestRegressor;fixed acidity, citric acid, chlorides, free sulfur dioxide, total sulfur dioxide, density;0,316538515
+RandomForestRegressor;fixed acidity, citric acid, total sulfur dioxide, density, pH;0,316368405
+RandomForestRegressor;fixed acidity, citric acid, residual sugar, chlorides, free sulfur dioxide, total sulfur dioxide, density;0,316194865
+RandomForestRegressor;fixed acidity, residual sugar, chlorides, free sulfur dioxide, total sulfur dioxide, density, alcohol;0,315755872
+RandomForestRegressor;fixed acidity, citric acid, chlorides, total sulfur dioxide, density, alcohol;0,315541176
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, residual sugar, free sulfur dioxide, total sulfur dioxide;0,315439659
+RandomForestRegressor;fixed acidity, citric acid, chlorides, total sulfur dioxide, density;0,315278123
+RandomForestRegressor;volatile acidity, chlorides, free sulfur dioxide, total sulfur dioxide, density;0,31500581
+RandomForestRegressor;volatile acidity, citric acid, residual sugar, free sulfur dioxide, total sulfur dioxide;0,314516743
+RandomForestRegressor;citric acid, residual sugar, chlorides, pH, alcohol;0,314268094
+RandomForestRegressor;citric acid, residual sugar, density, pH, alcohol;0,313988922
+RandomForestRegressor;fixed acidity, citric acid, chlorides, free sulfur dioxide, total sulfur dioxide, density, pH;0,313966286
+RandomForestRegressor;fixed acidity, chlorides, total sulfur dioxide, density, alcohol;0,313889805
+RandomForestRegressor;citric acid, chlorides, total sulfur dioxide, density, pH;0,31315552
+RandomForestRegressor;fixed acidity, residual sugar, chlorides, total sulfur dioxide, density, alcohol;0,312596489
+RandomForestRegressor;fixed acidity, residual sugar, chlorides, pH, sulphates;0,312521379
+RandomForestRegressor;citric acid, residual sugar, free sulfur dioxide, total sulfur dioxide, density, pH;0,312515206
+RandomForestRegressor;volatile acidity, chlorides, free sulfur dioxide, total sulfur dioxide, density, pH;0,312387967
+RandomForestRegressor;volatile acidity, residual sugar, free sulfur dioxide, total sulfur dioxide, density;0,312122855
+RandomForestRegressor;fixed acidity, volatile acidity, free sulfur dioxide, total sulfur dioxide, density, pH;0,312074841
+RandomForestRegressor;fixed acidity, citric acid, residual sugar, chlorides, total sulfur dioxide, density;0,311914676
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, chlorides, density, pH;0,311675974
+RandomForestRegressor;fixed acidity, residual sugar, chlorides, free sulfur dioxide, sulphates;0,311632074
+RandomForestRegressor;citric acid, residual sugar, chlorides, total sulfur dioxide, density, pH;0,31149386
+RandomForestRegressor;fixed acidity, citric acid, residual sugar, chlorides, total sulfur dioxide, density, pH;0,31139783
+RandomForestRegressor;residual sugar, chlorides, free sulfur dioxide, total sulfur dioxide, alcohol;0,311272305
+RandomForestRegressor;fixed acidity, citric acid, chlorides, total sulfur dioxide, density, pH;0,310624446
+RandomForestRegressor;fixed acidity, citric acid, free sulfur dioxide, total sulfur dioxide, density, pH;0,310158701
+RandomForestRegressor;fixed acidity, residual sugar, chlorides, density, pH, alcohol;0,309728625
+RandomForestRegressor;fixed acidity, volatile acidity, residual sugar, chlorides, free sulfur dioxide, density, pH;0,309378116
+RandomForestRegressor;fixed acidity, volatile acidity, residual sugar, free sulfur dioxide, density;0,309192915
+RandomForestRegressor;citric acid, residual sugar, total sulfur dioxide, density, pH;0,309101001
+RandomForestRegressor;volatile acidity, residual sugar, chlorides, density, pH;0,30898405
+RandomForestRegressor;fixed acidity, chlorides, free sulfur dioxide, density, alcohol;0,308751178
+RandomForestRegressor;residual sugar, chlorides, total sulfur dioxide, density, alcohol;0,308693903
+RandomForestRegressor;residual sugar, chlorides, free sulfur dioxide, total sulfur dioxide, density, alcohol;0,308626682
+RandomForestRegressor;fixed acidity, citric acid, residual sugar, total sulfur dioxide, density, pH;0,308561176
+RandomForestRegressor;fixed acidity, citric acid, residual sugar, chlorides, pH, alcohol;0,308143103
+RandomForestRegressor;fixed acidity, citric acid, residual sugar, chlorides, alcohol;0,307876277
+RandomForestRegressor;fixed acidity, citric acid, residual sugar, chlorides, density, pH, alcohol;0,307656094
+RandomForestRegressor;fixed acidity, citric acid, residual sugar, density, alcohol;0,307496273
+RandomForestRegressor;residual sugar, free sulfur dioxide, total sulfur dioxide, density, alcohol;0,307196522
+RandomForestRegressor;fixed acidity, volatile acidity, residual sugar, total sulfur dioxide, density;0,307186919
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, chlorides, free sulfur dioxide, density, pH;0,306868992
+RandomForestRegressor;citric acid, residual sugar, free sulfur dioxide, total sulfur dioxide, density;0,306778792
+RandomForestRegressor;volatile acidity, residual sugar, total sulfur dioxide, density, pH;0,306408734
+RandomForestRegressor;fixed acidity, volatile acidity, residual sugar, chlorides, density, pH;0,306154598
+RandomForestRegressor;fixed acidity, citric acid, residual sugar, pH, alcohol;0,305860335
+RandomForestRegressor;citric acid, residual sugar, chlorides, total sulfur dioxide, density;0,305584249
+RandomForestRegressor;fixed acidity, citric acid, residual sugar, free sulfur dioxide, density;0,305464555
+RandomForestRegressor;volatile acidity, chlorides, total sulfur dioxide, density, pH;0,305363038
+RandomForestRegressor;fixed acidity, residual sugar, chlorides, free sulfur dioxide, density, alcohol;0,30508215
+RandomForestRegressor;fixed acidity, residual sugar, chlorides, free sulfur dioxide, pH, sulphates;0,304582109
+RandomForestRegressor;citric acid, free sulfur dioxide, total sulfur dioxide, density, pH;0,304441151
+RandomForestRegressor;volatile acidity, residual sugar, chlorides, free sulfur dioxide, density, pH;0,304259723
+RandomForestRegressor;citric acid, residual sugar, chlorides, density, alcohol;0,304049749
+RandomForestRegressor;fixed acidity, volatile acidity, residual sugar, chlorides, density;0,303123484
+RandomForestRegressor;fixed acidity, chlorides, free sulfur dioxide, pH, sulphates;0,302732505
+RandomForestRegressor;volatile acidity, residual sugar, chlorides, free sulfur dioxide, density;0,302690663
+RandomForestRegressor;citric acid, residual sugar, free sulfur dioxide, pH, sulphates;0,302230063
+RandomForestRegressor;volatile acidity, citric acid, residual sugar, free sulfur dioxide, total sulfur dioxide, pH;0,301963237
+RandomForestRegressor;fixed acidity, residual sugar, chlorides, pH, alcohol;0,301197398
+RandomForestRegressor;fixed acidity, citric acid, residual sugar, chlorides, density, alcohol;0,300843117
+RandomForestRegressor;fixed acidity, citric acid, residual sugar, total sulfur dioxide, density;0,30082151
+RandomForestRegressor;volatile acidity, residual sugar, free sulfur dioxide, density, pH;0,300680209
+RandomForestRegressor;fixed acidity, citric acid, residual sugar, chlorides, free sulfur dioxide, density;0,300615389
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, density, pH;0,300539594
+RandomForestRegressor;fixed acidity, volatile acidity, chlorides, free sulfur dioxide, density, pH;0,300008686
+RandomForestRegressor;volatile acidity, free sulfur dioxide, total sulfur dioxide, density, pH;0,299251764
+RandomForestRegressor;fixed acidity, volatile acidity, chlorides, total sulfur dioxide, density, pH;0,298980137
+RandomForestRegressor;fixed acidity, residual sugar, total sulfur dioxide, density, alcohol;0,298705423
+RandomForestRegressor;citric acid, residual sugar, free sulfur dioxide, density, pH;0,298412532
+RandomForestRegressor;fixed acidity, volatile acidity, chlorides, free sulfur dioxide, total sulfur dioxide, density;0,296737839
+RandomForestRegressor;citric acid, residual sugar, chlorides, free sulfur dioxide, density;0,296560527
+RandomForestRegressor;fixed acidity, volatile acidity, free sulfur dioxide, total sulfur dioxide, density;0,295798804
+RandomForestRegressor;fixed acidity, citric acid, residual sugar, free sulfur dioxide, density, pH;0,295645156
+RandomForestRegressor;fixed acidity, chlorides, density, pH, alcohol;0,295525119
+RandomForestRegressor;volatile acidity, chlorides, free sulfur dioxide, density, pH;0,295385533
+RandomForestRegressor;volatile acidity, citric acid, residual sugar, chlorides, free sulfur dioxide, total sulfur dioxide, pH;0,294134401
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, residual sugar, free sulfur dioxide, total sulfur dioxide, pH;0,292794441
+RandomForestRegressor;fixed acidity, residual sugar, free sulfur dioxide, pH, sulphates;0,292472741
+RandomForestRegressor;citric acid, residual sugar, chlorides, free sulfur dioxide, density, pH;0,291164333
+RandomForestRegressor;fixed acidity, volatile acidity, free sulfur dioxide, density, pH;0,290630682
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, residual sugar, chlorides, free sulfur dioxide, total sulfur dioxide;0,289560977
+RandomForestRegressor;fixed acidity, citric acid, residual sugar, chlorides, free sulfur dioxide, density, pH;0,289298267
+RandomForestRegressor;fixed acidity, volatile acidity, chlorides, free sulfur dioxide, density;0,288762214
+RandomForestRegressor;fixed acidity, volatile acidity, chlorides, total sulfur dioxide, density;0,288739579
+RandomForestRegressor;citric acid, chlorides, density, pH, alcohol;0,287071746
+RandomForestRegressor;fixed acidity, volatile acidity, total sulfur dioxide, density, pH;0,287019272
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, free sulfur dioxide, total sulfur dioxide;0,286710605
+RandomForestRegressor;fixed acidity, citric acid, chlorides, free sulfur dioxide, density;0,286376558
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, residual sugar, chlorides, free sulfur dioxide, total sulfur dioxide, pH;0,286101158
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, chlorides, density;0,285961914
+RandomForestRegressor;fixed acidity, volatile acidity, residual sugar, free sulfur dioxide, total sulfur dioxide;0,285673482
+RandomForestRegressor;volatile acidity, citric acid, residual sugar, chlorides, free sulfur dioxide, total sulfur dioxide;0,285338749
+RandomForestRegressor;residual sugar, chlorides, free sulfur dioxide, density, alcohol;0,285067465
+RandomForestRegressor;fixed acidity, citric acid, density, pH, alcohol;0,28385886
+RandomForestRegressor;fixed acidity, residual sugar, density, pH, alcohol;0,283544019
+RandomForestRegressor;citric acid, chlorides, free sulfur dioxide, density, pH;0,282686952
+RandomForestRegressor;volatile acidity, citric acid, free sulfur dioxide, total sulfur dioxide, pH;0,282680093
+RandomForestRegressor;fixed acidity, volatile acidity, residual sugar, density, pH;0,281819254
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, residual sugar, total sulfur dioxide, pH;0,28158158
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, residual sugar, chlorides, total sulfur dioxide, pH;0,281096629
+RandomForestRegressor;fixed acidity, citric acid, chlorides, pH, alcohol;0,28105273
+RandomForestRegressor;fixed acidity, citric acid, chlorides, free sulfur dioxide, density, pH;0,28062574
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, residual sugar, chlorides, total sulfur dioxide;0,280515648
+RandomForestRegressor;fixed acidity, residual sugar, chlorides, free sulfur dioxide, total sulfur dioxide, density, pH;0,280073568
+RandomForestRegressor;volatile acidity, residual sugar, chlorides, free sulfur dioxide, total sulfur dioxide;0,27987705
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, residual sugar, total sulfur dioxide;0,279770731
+RandomForestRegressor;fixed acidity, citric acid, chlorides, density, pH, alcohol;0,279365004
+RandomForestRegressor;volatile acidity, citric acid, residual sugar, total sulfur dioxide, pH;0,278186581
+RandomForestRegressor;fixed acidity, volatile acidity, residual sugar, free sulfur dioxide, total sulfur dioxide, pH;0,277934502
+RandomForestRegressor;volatile acidity, citric acid, chlorides, free sulfur dioxide, total sulfur dioxide, pH;0,277894032
+RandomForestRegressor;fixed acidity, volatile acidity, residual sugar, chlorides, free sulfur dioxide, total sulfur dioxide, pH;0,27772255
+RandomForestRegressor;volatile acidity, residual sugar, chlorides, free sulfur dioxide, total sulfur dioxide, pH;0,277385074
+RandomForestRegressor;fixed acidity, volatile acidity, chlorides, density, pH;0,27726195
+RandomForestRegressor;fixed acidity, citric acid, free sulfur dioxide, density, pH;0,277045883
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, chlorides, free sulfur dioxide, total sulfur dioxide, pH;0,276246777
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, residual sugar, free sulfur dioxide;0,275919932
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, free sulfur dioxide, total sulfur dioxide, pH;0,275544044
+RandomForestRegressor;fixed acidity, volatile acidity, residual sugar, chlorides, total sulfur dioxide, pH;0,27458203
+RandomForestRegressor;volatile acidity, citric acid, residual sugar, chlorides, total sulfur dioxide, pH;0,272828113
+RandomForestRegressor;fixed acidity, volatile acidity, free sulfur dioxide, total sulfur dioxide, pH;0,272363397
+RandomForestRegressor;volatile acidity, citric acid, residual sugar, chlorides, total sulfur dioxide;0,271788247
+RandomForestRegressor;fixed acidity, volatile acidity, residual sugar, chlorides, free sulfur dioxide, total sulfur dioxide;0,271530681
+RandomForestRegressor;fixed acidity, citric acid, residual sugar, free sulfur dioxide, total sulfur dioxide, pH;0,269729092
+RandomForestRegressor;volatile acidity, residual sugar, chlorides, total sulfur dioxide, pH;0,269038362
+RandomForestRegressor;fixed acidity, volatile acidity, chlorides, free sulfur dioxide, total sulfur dioxide, pH;0,268890888
+RandomForestRegressor;volatile acidity, citric acid, residual sugar, free sulfur dioxide, pH;0,268620975
+RandomForestRegressor;volatile acidity, residual sugar, free sulfur dioxide, total sulfur dioxide, pH;0,268229997
+RandomForestRegressor;fixed acidity, citric acid, chlorides, density, alcohol;0,268079778
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, chlorides, free sulfur dioxide, total sulfur dioxide;0,267243975
+RandomForestRegressor;fixed acidity, citric acid, residual sugar, free sulfur dioxide, total sulfur dioxide;0,265683833
+RandomForestRegressor;volatile acidity, citric acid, chlorides, total sulfur dioxide, pH;0,264906334
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, chlorides, total sulfur dioxide, pH;0,26487238
+RandomForestRegressor;fixed acidity, citric acid, residual sugar, chlorides, density, pH;0,264756458
+RandomForestRegressor;citric acid, residual sugar, chlorides, density, pH;0,264515698
+RandomForestRegressor;volatile acidity, citric acid, residual sugar, chlorides, pH;0,263978616
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, chlorides, total sulfur dioxide;0,263664804
+RandomForestRegressor;fixed acidity, residual sugar, free sulfur dioxide, total sulfur dioxide, density, pH;0,262494269
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, total sulfur dioxide, pH;0,261901627
+RandomForestRegressor;volatile acidity, citric acid, residual sugar, chlorides, free sulfur dioxide, pH;0,261478753
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, residual sugar, free sulfur dioxide, pH;0,2593342
+RandomForestRegressor;volatile acidity, citric acid, chlorides, free sulfur dioxide, total sulfur dioxide;0,257987038
+RandomForestRegressor;volatile acidity, citric acid, residual sugar, chlorides, free sulfur dioxide;0,257777487
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, residual sugar, chlorides, free sulfur dioxide;0,257394739
+RandomForestRegressor;fixed acidity, citric acid, free sulfur dioxide, total sulfur dioxide, pH;0,256731104
+RandomForestRegressor;fixed acidity, residual sugar, chlorides, density, alcohol;0,255708043
+RandomForestRegressor;fixed acidity, volatile acidity, residual sugar, total sulfur dioxide, pH;0,253237674
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, residual sugar, chlorides, free sulfur dioxide, pH;0,252706423
+RandomForestRegressor;fixed acidity, volatile acidity, residual sugar, chlorides, total sulfur dioxide;0,252468406
+RandomForestRegressor;fixed acidity, volatile acidity, chlorides, free sulfur dioxide, total sulfur dioxide;0,251343485
+RandomForestRegressor;volatile acidity, chlorides, free sulfur dioxide, total sulfur dioxide, pH;0,251094836
+RandomForestRegressor;fixed acidity, residual sugar, chlorides, total sulfur dioxide, density, pH;0,250433944
+RandomForestRegressor;fixed acidity, volatile acidity, residual sugar, chlorides, pH;0,249351893
+RandomForestRegressor;fixed acidity, citric acid, residual sugar, chlorides, density;0,248867285
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, residual sugar, chlorides;0,245636566
+RandomForestRegressor;residual sugar, chlorides, free sulfur dioxide, total sulfur dioxide, density, pH;0,244294891
+RandomForestRegressor;citric acid, residual sugar, free sulfur dioxide, total sulfur dioxide, pH;0,244142615
+RandomForestRegressor;fixed acidity, residual sugar, total sulfur dioxide, density, pH;0,243681329
+RandomForestRegressor;citric acid, chlorides, free sulfur dioxide, total sulfur dioxide, pH;0,243242335
+RandomForestRegressor;volatile acidity, citric acid, chlorides, free sulfur dioxide, pH;0,243228273
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, chlorides, free sulfur dioxide, pH;0,243171684
+RandomForestRegressor;fixed acidity, citric acid, chlorides, free sulfur dioxide, total sulfur dioxide, pH;0,242162685
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, residual sugar, chlorides, pH;0,241544664
+RandomForestRegressor;fixed acidity, volatile acidity, chlorides, total sulfur dioxide, pH;0,241336142
+RandomForestRegressor;fixed acidity, residual sugar, chlorides, free sulfur dioxide, density, pH;0,241314878
+RandomForestRegressor;fixed acidity, volatile acidity, residual sugar, chlorides, free sulfur dioxide, pH;0,241062457
+RandomForestRegressor;fixed acidity, chlorides, free sulfur dioxide, total sulfur dioxide, density, pH;0,239814068
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, residual sugar, pH;0,238783462
+RandomForestRegressor;residual sugar, chlorides, free sulfur dioxide, density, pH;0,238467935
+RandomForestRegressor;fixed acidity, citric acid, residual sugar, density, pH;0,237261731
+RandomForestRegressor;volatile acidity, residual sugar, chlorides, free sulfur dioxide, pH;0,236240385
+RandomForestRegressor;fixed acidity, citric acid, chlorides, free sulfur dioxide, total sulfur dioxide;0,235047213
+RandomForestRegressor;fixed acidity, residual sugar, chlorides, free sulfur dioxide, total sulfur dioxide, density;0,234710423
+RandomForestRegressor;citric acid, residual sugar, chlorides, free sulfur dioxide, total sulfur dioxide, pH;0,234156193
+RandomForestRegressor;fixed acidity, free sulfur dioxide, total sulfur dioxide, density, pH;0,233087175
+RandomForestRegressor;fixed acidity, citric acid, residual sugar, chlorides, free sulfur dioxide, total sulfur dioxide, pH;0,232852245
+RandomForestRegressor;fixed acidity, residual sugar, free sulfur dioxide, density, pH;0,232644751
+RandomForestRegressor;fixed acidity, residual sugar, chlorides, free sulfur dioxide, density;0,227261248
+RandomForestRegressor;fixed acidity, citric acid, chlorides, density, pH;0,226650086
+RandomForestRegressor;fixed acidity, residual sugar, chlorides, total sulfur dioxide, density;0,226166164
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, chlorides, pH;0,222654557
+RandomForestRegressor;fixed acidity, volatile acidity, residual sugar, chlorides, free sulfur dioxide;0,22264221
+RandomForestRegressor;fixed acidity, volatile acidity, residual sugar, free sulfur dioxide, pH;0,222494736
+RandomForestRegressor;fixed acidity, volatile acidity, chlorides, free sulfur dioxide, pH;0,22186917
+RandomForestRegressor;residual sugar, chlorides, total sulfur dioxide, density, pH;0,221666135
+RandomForestRegressor;fixed acidity, citric acid, residual sugar, chlorides, free sulfur dioxide, total sulfur dioxide;0,221104017
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, free sulfur dioxide, pH;0,220756595
+RandomForestRegressor;fixed acidity, chlorides, free sulfur dioxide, density, pH;0,218639136
+RandomForestRegressor;fixed acidity, citric acid, chlorides, total sulfur dioxide, pH;0,216963757
+RandomForestRegressor;fixed acidity, chlorides, total sulfur dioxide, density, pH;0,21545163
+RandomForestRegressor;fixed acidity, residual sugar, free sulfur dioxide, total sulfur dioxide, density;0,212642413
+RandomForestRegressor;fixed acidity, volatile acidity, citric acid, chlorides, free sulfur dioxide;0,212601257
+RandomForestRegressor;fixed acidity, citric acid, residual sugar, total sulfur dioxide, pH;0,210269446
+RandomForestRegressor;chlorides, free sulfur dioxide, total sulfur dioxide, density, pH;0,207886876
+RandomForestRegressor;fixed acidity, chlorides, free sulfur dioxide, total sulfur dioxide, density;0,206983509
+RandomForestRegressor;fixed acidity, residual sugar, chlorides, density, pH;0,203860137
+RandomForestRegressor;residual sugar, free sulfur dioxide, total sulfur dioxide, density, pH;0,201367475
+RandomForestRegressor;fixed acidity, citric acid, residual sugar, chlorides, total sulfur dioxide;0,200980612
+RandomForestRegressor;citric acid, residual sugar, chlorides, total sulfur dioxide, pH;0,198790445
+RandomForestRegressor;residual sugar, chlorides, free sulfur dioxide, total sulfur dioxide, pH;0,197661065
+RandomForestRegressor;citric acid, residual sugar, chlorides, free sulfur dioxide, total sulfur dioxide;0,191922936
+RandomForestRegressor;fixed acidity, citric acid, residual sugar, chlorides, total sulfur dioxide, pH;0,189831543
+RandomForestRegressor;fixed acidity, citric acid, residual sugar, free sulfur dioxide, pH;0,188123926
+RandomForestRegressor;citric acid, residual sugar, chlorides, free sulfur dioxide, pH;0,187357744
+RandomForestRegressor;fixed acidity, citric acid, residual sugar, chlorides, free sulfur dioxide, pH;0,184093071
+RandomForestRegressor;fixed acidity, citric acid, residual sugar, chlorides, free sulfur dioxide;0,177279408
+RandomForestRegressor;fixed acidity, chlorides, free sulfur dioxide, total sulfur dioxide, pH;0,17216616
+RandomForestRegressor;fixed acidity, citric acid, chlorides, free sulfur dioxide, pH;0,171752888
+RandomForestRegressor;fixed acidity, residual sugar, free sulfur dioxide, total sulfur dioxide, pH;0,168744752
+RandomForestRegressor;fixed acidity, citric acid, residual sugar, chlorides, pH;0,156996182
+RandomForestRegressor;fixed acidity, residual sugar, chlorides, free sulfur dioxide, total sulfur dioxide, pH;0,15423498
+RandomForestRegressor;residual sugar, chlorides, free sulfur dioxide, total sulfur dioxide, density;0,153653313
+RandomForestRegressor;fixed acidity, residual sugar, chlorides, free sulfur dioxide, total sulfur dioxide;0,145171131
+RandomForestRegressor;fixed acidity, residual sugar, chlorides, total sulfur dioxide, pH;0,132026012
+RandomForestRegressor;fixed acidity, residual sugar, chlorides, free sulfur dioxide, pH;0,114299924
